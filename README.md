@@ -36,10 +36,10 @@ Selon votre OS, installez le fichier correspondant :
 - macOS   : `TraceX_Mac.zip`  
 - Linux   : `TraceX_Linux.zip`
 
-Après avoir installé ou décompressé le fichier ZIP, rendez-vous dans le dossier `TraceX` puis lancez le logiciel avec :  
-- Windows : `TraceX.exe`  
-- macOS   : `TraceX.pkg`
-- Linux   : `installer.run`
+Après avoir décompressé le fichier ZIP, lancer l'installation du logiciel :  
+- Windows : `TraceX_Installer.exe`  
+- macOS   : `TraceX_Installer.pkg`
+- Linux   : `TraceX_Installer.run`
 
 > Note : cette version est une bêta stable. Pour modifier ou recompiler le projet, consultez le dossier `src/` et adaptez les chemins si nécessaire (images, fichiers `.ui`, Image.qrc).
 
