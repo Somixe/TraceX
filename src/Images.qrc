@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/Arriere_fond"/>
+    <qresource prefix="/Icons">
+        <file>images/csv.png</file>
+        <file>images/delete.png</file>
+        <file>images/docx.png</file>
+        <file>images/download.png</file>
+        <file>images/fleche_droite.png</file>
+        <file>images/folder.png</file>
+        <file>images/format_fichier.png</file>
+        <file>images/information_icon.png</file>
+        <file>images/upload_icon.png</file>
+        <file>images/xlsx.png</file>
+        <file>images/doc.png</file>
+        <file>images/menu_icon.png</file>
+        <file>images/Help_icon.png</file>
+        <file>images/Home_icon.png</file>
+        <file>images/Import_icon.png</file>
+        <file>images/analyse_icon.png</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file>images/fond_nuages.png</file>
+    </qresource>
+</RCC>
