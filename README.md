@@ -86,6 +86,44 @@ Le dossier `tests/` contient :
 
 ## Arborescence du projet
 
+### Arborescence textuelle
+
+```text
+TraceX/
+├── src/
+│   ├── cpp/
+│   ├── h/
+│   ├── ui/
+│   ├── Image.qrc
+│   └── CMakeLists.txt
+├── tests/
+│   ├── cpp/
+│   ├── h/
+│   ├── examples/
+│   └── CMakeLists.txt
+├── docs/
+├── specifications/
+│   ├── Cahier_des_charges.pdf
+│   ├── Cahier_de_recettes.pdf
+│   ├── Conception_generale.pdf
+│   ├── Conception_detaillee.pdf
+│   ├── Manuel_installation.pdf
+│   ├── Manuel_utilisation.pdf
+│   ├── Plan_de_tests.pdf
+│   └── Rapport_de_projet.pdf
+├── assets/
+│   └── images/
+├── external/
+│   └── pugixml-1.15/
+├── video/
+│   └── TraceX_demo.mp4
+├── mockups/
+├── .gitignore
+└── README.md
+```
+
+### Diagramme Mermaid
+
 ```mermaid
 graph TD
     A[TraceX] --> B[src]
