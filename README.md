@@ -49,7 +49,11 @@ Après l’installation, pour lancer le logiciel, ouvrez le dossier `TraceX` et 
 
 ## Utilisation
 
-Lors de l’utilisation, des messages de permission ou de sécurité peuvent apparaître : merci de les autoriser pour que le logiciel fonctionne correctement.
+
+Pour voir rapidement comment utiliser TraceX, consultez la **vidéo de démonstration** :  
+[Regarder la vidéo](video/TraceX_demo.mp4)
+
+> Note : Lors de l’utilisation, des messages de permission ou de sécurité peuvent apparaître : merci de les autoriser pour que le logiciel fonctionne correctement.
 
 ---
 
