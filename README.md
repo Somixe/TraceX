@@ -73,6 +73,17 @@ Le dossier `tests/` contient :
 
 ---
 
+## Notes pour développeurs
+
+- **Code source** : `src/`  
+- **Librairies externes** : `external/pugixml-1.15/`  
+- **Version C++** : C++17  
+- **Version Qt** : Qt 6.x.x  
+- **Adaptation des chemins** : si vous modifiez la structure du projet, adaptez les chemins des images, fichiers `.ui` et `Image.qrc`  
+- **Compilation** : utiliser CMake (`CMakeLists.txt`) pour générer les fichiers du projet et compiler
+
+---
+
 ## Arborescence du projet 
 
 ```
