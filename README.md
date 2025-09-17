@@ -160,6 +160,7 @@ graph TD
     E --> E7[Plan_de_tests.pdf]
     E --> E8[Rapport_de_projet.pdf]
 ```
+---
 
 ## Équipe
 
