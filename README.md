@@ -7,10 +7,10 @@ Il permet de visualiser les liens entre les documents, analyser le taux de traç
 
 ## Captures d’écran
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="assets/images/screenshot_home.png" width="370" />
-  <img src="assets/images/screenshot_main.png" width="370" />
-  <img src="assets/images/screenshot_graph.png" width="370" />
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
+  <img src="assets/images/screenshot_home.png" width="355" />
+  <img src="assets/images/screenshot_main.png" width="355" />
+  <img src="assets/images/screenshot_graph.png" width="355" />
 </div>
 
 ---
