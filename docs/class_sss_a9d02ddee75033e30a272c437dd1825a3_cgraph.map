@@ -1,0 +1,11 @@
+<map id="Sss::getRadicaux" name="Sss::getRadicaux">
+<area shape="rect" id="Node000001" title="Extrait les radicaux à partir des identifiants d’exigence, et les enregistre." alt="" coords="5,81,131,108"/>
+<area shape="rect" id="Node000002" href="$class_srs.html#a40547d8d9e564ebd0df8c2095c070be6" title="Ajoute un filtre à la liste des filtres." alt="" coords="182,5,288,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,78,178,42,188,37,191,41,180,46,101,83"/>
+<area shape="rect" id="Node000003" href="$class_srs.html#a5382aad692ba4e12eaf10ad23777263c" title="Récupère la liste des filtres associés à la classe Srs." alt="" coords="183,56,286,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,83,167,77,168,82,131,88"/>
+<area shape="rect" id="Node000004" href="$class_file.html#a1cf6cc51e5830c3d5b21648c25b744ad" title=" " alt="" coords="179,107,291,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="131,102,164,107,163,112,131,107"/>
+<area shape="rect" id="Node000005" href="$class_file.html#a0ce5206db2513a52b369bed49d77353b" title="File::isExcel vérifie si un fichier est un fichier excel à partir de son extension." alt="" coords="188,157,282,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="101,106,180,143,191,148,188,153,178,148,98,111"/>
+</map>

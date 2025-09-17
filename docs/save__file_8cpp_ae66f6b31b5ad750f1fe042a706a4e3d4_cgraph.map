@@ -1,0 +1,13 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,55,73"/>
+<area shape="rect" id="Node000002" href="$classpugi_1_1xml__document.html#ab35d1e571a3c2f7b15a1d14cc53603ae" title=" " alt="" coords="103,5,241,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,52,87,44,88,49,56,57"/>
+<area shape="rect" id="Node000005" href="$classpugi_1_1xml__document.html#a0ab2364806fa3578fa8d4b092edd83f8" title=" " alt="" coords="103,72,241,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="56,63,88,71,87,76,54,68"/>
+<area shape="rect" id="Node000003" href="$classpugi_1_1xml__document.html#a6caaa62694a6d0d1a5bece7fb56a2954" title=" " alt="" coords="291,5,429,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="241,24,276,24,276,29,241,29"/>
+<area shape="rect" id="Node000004" href="$classpugi_1_1xml__document.html#a56e84f1a61d9798b8095f633d2174ab5" title=" " alt="" coords="479,5,618,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="430,24,464,24,464,29,430,29"/>
+<area shape="rect" id="Node000006" href="$structauto__deleter.html#a6c02cf0240e922064cbf4672bb4363ce" title=" " alt="" coords="289,80,431,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="241,91,274,91,274,96,241,96"/>
+</map>

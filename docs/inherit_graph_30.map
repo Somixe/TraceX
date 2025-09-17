@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classpugi_1_1xml__writer.html" title=" " alt="" coords="5,81,119,108"/>
+<area shape="rect" id="Node000001" href="$classpugi_1_1xml__writer__file.html" title=" " alt="" coords="178,5,316,32"/>
+<area shape="poly" id="edge7_Node000000_Node000001" title=" " alt="" coords="102,71,166,42,198,30,199,35,168,46,104,76"/>
+<area shape="rect" id="Node000002" href="$classpugi_1_1xml__writer__stream.html" title=" " alt="" coords="167,56,327,83"/>
+<area shape="poly" id="edge8_Node000000_Node000002" title=" " alt="" coords="134,82,166,78,166,83,134,87"/>
+<area shape="rect" id="Node000003" href="$structxml__memory__writer.html" title=" " alt="" coords="179,107,314,133"/>
+<area shape="poly" id="edge9_Node000000_Node000003" title=" " alt="" coords="134,102,179,108,178,113,134,107"/>
+<area shape="rect" id="Node000004" href="$structxml__string__writer.html" title=" " alt="" coords="187,157,307,184"/>
+<area shape="poly" id="edge10_Node000000_Node000004" title=" " alt="" coords="104,113,168,143,199,154,198,159,166,148,102,118"/>
+</map>

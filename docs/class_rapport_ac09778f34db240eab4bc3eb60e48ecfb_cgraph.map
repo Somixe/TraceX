@@ -1,0 +1,29 @@
+<map id="Rapport::generation" name="Rapport::generation">
+<area shape="rect" id="Node000001" title="rempli lignesRapport en traitant les exigences de chaque SSS" alt="" coords="5,233,141,260"/>
+<area shape="rect" id="Node000002" href="$class_exigence.html#a4ac2cb4f147eec9a69c47c27c6754d8b" title="getId" alt="" coords="446,107,558,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,231,125,186,154,162,188,143,250,123,314,113,376,110,431,111,431,116,376,115,315,118,251,128,190,148,157,166,128,190,87,235"/>
+<area shape="rect" id="Node000003" href="$class_file.html#a8bce922d7f727297079b6976b2db53d4" title="File::getNom." alt="" coords="242,56,338,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="79,231,119,168,150,131,187,99,226,80,229,85,190,104,154,135,124,171,84,234"/>
+<area shape="rect" id="Node000004" href="$class_rapportligne.html#a8e00359ad94dd2f01d793b8eb2f3a9c6" title="vérifie si l&#39;exigence exi est dans le document docSdd" alt="" coords="217,5,364,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="75,232,88,194,110,142,143,88,163,63,187,42,201,33,204,37,190,46,167,67,147,91,115,145,93,196,81,234"/>
+<area shape="rect" id="Node000006" href="$class_rapportligne.html#a3206586a1890ccda1d3ea01ba8770644" title="vérifie si l&#39;exigence exi est dans le document docSrs" alt="" coords="219,157,362,184"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="101,230,188,193,212,186,213,191,190,199,103,235"/>
+<area shape="rect" id="Node000008" href="$class_rapportligne.html#a6b4da80a4dcabaa15f2a9d2edcb7df7f" title="setter du nom de l&#39;exigence dans le SDD" alt="" coords="189,208,392,235"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="141,236,173,232,173,238,141,241"/>
+<area shape="rect" id="Node000009" href="$class_rapportligne.html#afd022cce138ff710b8f9a550a6c118ca" title="setter du nom de l&#39;exigence dans le SRS" alt="" coords="189,259,392,285"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="141,252,174,256,173,261,141,257"/>
+<area shape="rect" id="Node000010" href="$class_rapportligne.html#a316777d448af64ad1d9d4289d3677488" title="setter du nom de l&#39;exigence dans le SSS" alt="" coords="190,309,391,336"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="103,258,190,295,213,302,212,307,188,300,101,263"/>
+<area shape="rect" id="Node000011" href="$class_rapportligne.html#a04b856323d9ccd98b0d96b975aa77bf9" title="setter du nom du fichier SDD" alt="" coords="198,360,382,387"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="88,259,130,302,159,326,190,346,203,352,201,357,187,350,155,330,126,306,84,262"/>
+<area shape="rect" id="Node000012" href="$class_rapportligne.html#aa95a312ebb217994c6f6c43b73323ef2" title="setter du nom du fichier SRS" alt="" coords="199,411,382,437"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="83,259,122,326,153,364,190,397,199,402,196,406,187,401,149,368,117,329,78,262"/>
+<area shape="rect" id="Node000013" href="$class_rapportligne.html#ac4e0bc7fbbe51989ef930d35575d01f7" title="setter du nom du fichier SSS" alt="" coords="199,461,382,488"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="81,260,93,298,115,349,147,402,167,426,190,447,197,452,194,456,187,451,163,430,143,405,110,351,88,299,75,261"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="362,30,393,42,437,67,475,94,472,99,434,71,391,46,360,35"/>
+<area shape="rect" id="Node000005" href="$class_sdd.html#ad23dc56fb995d60ba229a8d50198edb1" title="getExigence : récupérer l&#39;attribut &#39;exigences&#39;" alt="" coords="440,5,564,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="364,16,425,16,425,21,364,21"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="349,154,430,134,431,140,350,159"/>
+<area shape="rect" id="Node000007" href="$class_srs.html#a129d1d7307eaf37a0177f5dd0587a039" title="Récupère la liste des exigences associées à ce fichier Srs." alt="" coords="442,157,563,184"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="362,168,426,168,426,173,362,173"/>
+</map>

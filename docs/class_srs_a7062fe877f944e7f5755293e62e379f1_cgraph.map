@@ -1,0 +1,62 @@
+<map id="Srs::extractExigences" name="Srs::extractExigences">
+<area shape="rect" id="Node000001" title="Extrait les exigences depuis un fichier, selon le format du fichier (Word, Excel, CSV)." alt="" coords="5,417,156,444"/>
+<area shape="rect" id="Node000002" href="$class_srs.html#a8de9ba95c8d227300fc108ed14a6a9fc" title="Ajoute une exigence à la liste des exigences du fichier Srs." alt="" coords="248,5,372,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,417,82,350,97,249,113,193,134,138,164,87,202,42,232,25,234,29,205,46,168,90,139,140,118,195,103,250,87,350,84,417"/>
+<area shape="rect" id="Node000003" href="$classpugi_1_1xml__node.html#a2d27d392a789976eb1aef9d49f72393e" title=" " alt="" coords="228,56,392,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="80,416,87,359,106,274,122,227,142,181,169,137,202,99,217,88,221,92,205,103,173,141,147,183,127,229,111,275,92,359,85,417"/>
+<area shape="rect" id="Node000004" href="$class_xml_parser_utils.html#a1895bef2b54f8345e7eb5698e970724a" title="Cette fonction analyse un paragraphe XML pour extraire et filtrer des informations relatives aux exig..." alt="" coords="233,157,388,200"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="83,416,98,378,122,324,156,267,178,240,202,217,218,205,221,210,205,221,182,244,161,270,127,327,102,380,88,418"/>
+<area shape="rect" id="Node000005" href="$classpugi_1_1xml__node.html#a4154ffb6451d4203b74bb56d3f3ecf50" title=" " alt="" coords="482,72,626,99"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="81,417,89,365,109,290,124,250,145,210,170,174,202,143,222,132,248,122,316,106,393,95,466,88,467,93,393,101,317,112,250,127,224,137,205,147,175,178,149,213,129,252,114,292,94,366,86,418"/>
+<area shape="rect" id="Node000007" href="$classpugi_1_1xml__node.html#a4f72c001fed61753fa76fd32d4e978af" title=" " alt="" coords="473,189,635,216"/>
+<area shape="poly" id="edge12_Node000001_Node000007" title=" " alt="" coords="85,416,100,383,125,341,159,297,202,260,248,242,313,228,457,208,458,214,313,233,249,248,205,265,163,300,130,344,105,386,90,418"/>
+<area shape="rect" id="Node000011" href="$class_file_utils.html#af356104833af6eb8c70de4ba0f730d72" title="delete_extra : supprime les fichiers, dossiers inutiles créés" alt="" coords="480,341,628,368"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="131,414,203,397,340,376,464,361,465,366,341,381,204,403,132,419"/>
+<area shape="rect" id="Node000012" href="$class_xml_parser_utils.html#a0744b0c517b41333d40cbed3ce4a3eff" title="Extrait les exigences d&#39;un document Excel de type SSS." alt="" coords="204,275,417,317"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="95,415,141,376,202,334,228,321,230,326,205,338,144,380,98,419"/>
+<area shape="rect" id="Node000013" href="$class_file_utils.html#a79a5b5635d173ed94088ecea7e22f3b8" title="ExtractXmlFolder." alt="" coords="465,392,643,419"/>
+<area shape="poly" id="edge26_Node000001_Node000013" title=" " alt="" coords="156,424,450,408,450,414,156,429"/>
+<area shape="rect" id="Node000017" href="$classpugi_1_1xml__document.html#aefb4c986984462e3972cf332156dbf00" title=" " alt="" coords="485,443,623,485"/>
+<area shape="poly" id="edge31_Node000001_Node000017" title=" " alt="" coords="156,433,470,455,469,461,156,439"/>
+<area shape="rect" id="Node000020" href="$class_xml_parser_utils.html#aefe14382be6df4f9912e3a4a035cff94" title="Extrait les exigences à partir d&#39;un fichier CSV." alt="" coords="205,493,416,520"/>
+<area shape="poly" id="edge25_Node000001_Node000020" title=" " alt="" coords="120,442,205,472,248,486,246,491,203,477,118,447"/>
+<area shape="rect" id="Node000021" href="$class_file.html#ac901d251e9e6f5853bb1aa64c3cb2769" title="File::getPath." alt="" coords="263,544,358,571"/>
+<area shape="poly" id="edge27_Node000001_Node000021" title=" " alt="" coords="96,443,141,486,172,510,205,530,249,545,247,550,203,534,169,514,138,490,92,446"/>
+<area shape="rect" id="Node000022" href="$class_file.html#aef58368f45431f6c5752013aac392099" title="File::isCsv vérifie si un fichier est un fichier csv à partir de son extension." alt="" coords="268,595,352,621"/>
+<area shape="poly" id="edge28_Node000001_Node000022" title=" " alt="" coords="91,443,133,510,166,548,205,580,228,592,253,599,252,604,226,597,202,585,162,552,129,513,87,446"/>
+<area shape="rect" id="Node000023" href="$class_file.html#a0ce5206db2513a52b369bed49d77353b" title="File::isExcel vérifie si un fichier est un fichier excel à partir de son extension." alt="" coords="264,645,357,672"/>
+<area shape="poly" id="edge29_Node000001_Node000023" title=" " alt="" coords="88,444,102,482,126,533,160,586,181,610,205,631,226,643,249,650,248,655,224,648,202,636,178,614,156,589,121,535,97,484,83,445"/>
+<area shape="rect" id="Node000024" href="$class_file.html#a9f2d6df5938f0d26c68bd784b14e9149" title="File::isWord vérifie si un fichier est un fichier word à partir de son extension." alt="" coords="265,696,356,723"/>
+<area shape="poly" id="edge30_Node000001_Node000024" title=" " alt="" coords="87,444,97,490,119,555,135,589,154,623,178,655,205,682,227,694,251,702,249,707,225,699,202,686,174,658,150,626,130,592,114,557,92,491,82,445"/>
+<area shape="rect" id="Node000025" href="$class_xml_parser_utils.html#af7a673998d618c099d14152fb333f3be" title="Nettoie une ligne d&#39;exigences SRS et extrait chaque exigence sous forme de liste." alt="" coords="223,747,398,789"/>
+<area shape="poly" id="edge32_Node000001_Node000025" title=" " alt="" coords="86,444,94,498,114,575,130,618,150,659,175,699,206,733,211,738,208,742,202,737,171,702,145,662,125,620,109,577,89,499,81,445"/>
+<area shape="rect" id="Node000026" href="$classpugi_1_1xml__attribute.html#ac18639df6493d250601566d1156c38d9" title=" " alt="" coords="246,837,374,880"/>
+<area shape="poly" id="edge33_Node000001_Node000026" title=" " alt="" coords="85,444,93,506,112,599,127,651,148,704,174,754,206,800,239,827,236,832,202,803,169,757,143,706,122,653,107,601,87,507,80,445"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="373,154,416,136,439,122,464,108,482,101,484,106,466,113,442,127,418,141,375,159"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="389,184,458,191,457,196,388,189"/>
+<area shape="rect" id="Node000010" href="$classpugi_1_1xml__node.html#ae157b9c76f71e7c417a2dda8da489bab" title=" " alt="" coords="483,123,625,165"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="388,165,467,154,468,159,389,170"/>
+<area shape="rect" id="Node000006" href="$classpugi_1_1xml__node.html#a4641476ddd4869da18f0738186b17368" title=" " alt="" coords="691,108,865,135"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="627,94,676,102,675,108,626,100"/>
+<area shape="rect" id="Node000008" href="$classpugi_1_1xml__node.html#aeff3362bf030a0df28ec2db9b84498f1" title=" " alt="" coords="704,163,852,189"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="636,190,688,184,689,189,636,196"/>
+<area shape="rect" id="Node000009" href="$classpugi_1_1xml__node.html#aafa1deeb5fe928d07cd7caebbf975527" title=" " alt="" coords="709,213,847,240"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="636,209,694,215,693,220,636,214"/>
+<area shape="poly" id="edge10_Node000010_Node000006" title=" " alt="" coords="625,134,676,129,676,134,626,139"/>
+<area shape="poly" id="edge15_Node000012_Node000005" title=" " alt="" coords="345,272,381,245,415,210,430,183,436,158,443,133,463,109,469,104,472,109,467,113,448,136,441,159,435,185,419,214,385,249,348,276"/>
+<area shape="poly" id="edge16_Node000012_Node000007" title=" " alt="" coords="373,272,416,254,439,239,464,226,482,219,484,224,466,230,442,244,418,258,375,277"/>
+<area shape="poly" id="edge17_Node000012_Node000011" title=" " alt="" coords="402,315,481,335,480,340,401,321"/>
+<area shape="poly" id="edge18_Node000012_Node000013" title=" " alt="" coords="348,316,402,347,466,378,484,384,482,389,464,382,400,352,345,320"/>
+<area shape="rect" id="Node000016" href="$classpugi_1_1xml__text.html#a16b9d74fdf0b553b04f2676e60e737db" title=" " alt="" coords="490,240,619,267"/>
+<area shape="poly" id="edge21_Node000012_Node000016" title=" " alt="" coords="417,275,474,265,475,270,418,280"/>
+<area shape="poly" id="edge22_Node000012_Node000017" title=" " alt="" coords="333,316,390,371,427,401,466,428,475,433,472,438,464,433,424,406,387,375,330,320"/>
+<area shape="rect" id="Node000019" href="$classpugi_1_1xml__node.html#a6a2182065bf0e688eda3bc55b911888a" title=" " alt="" coords="484,291,624,317"/>
+<area shape="poly" id="edge24_Node000012_Node000019" title=" " alt="" coords="418,297,469,299,469,304,417,302"/>
+<area shape="rect" id="Node000014" href="$class_file_utils.html#a8b609fd70d9ed08bc7edad1087c9ec13" title="CreateCopy : Crée le path d&#39;une copie d&#39;un fichier." alt="" coords="704,341,852,368"/>
+<area shape="poly" id="edge19_Node000013_Node000014" title=" " alt="" coords="616,389,700,369,702,375,617,394"/>
+<area shape="rect" id="Node000015" href="$class_file_utils.html#aa85d23111e76d16339d7f5c3603242cd" title="CreateZipFolder Crée le path du dossier zip du fichier copie." alt="" coords="693,392,863,419"/>
+<area shape="poly" id="edge20_Node000013_Node000015" title=" " alt="" coords="644,403,677,403,677,408,644,408"/>
+<area shape="rect" id="Node000018" href="$classpugi_1_1xml__document.html#a56e84f1a61d9798b8095f633d2174ab5" title=" " alt="" coords="709,443,847,485"/>
+<area shape="poly" id="edge23_Node000017_Node000018" title=" " alt="" coords="624,461,694,461,694,467,624,467"/>
+<area shape="poly" id="edge34_Node000026_Node000026" title=" " alt="" coords="267,837,265,827,272,818,287,813,310,811,335,813,350,819,348,824,334,818,310,816,289,818,275,823,270,829,272,836"/>
+</map>

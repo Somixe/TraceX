@@ -1,0 +1,10 @@
+<map id="node_output_attributes" name="node_output_attributes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="331,31,484,57"/>
+<area shape="rect" id="Node000002" href="$pugixml_8cpp.html#ad092fd8012bad5c9f17541a832188e48" title=" " alt="" coords="146,5,283,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="315,35,283,30,284,25,316,29"/>
+<area shape="rect" id="Node000004" href="$pugixml_8cpp.html#ae4cd311590420ae5ef799d11433f58c0" title=" " alt="" coords="152,56,277,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="316,59,278,64,277,59,315,53"/>
+<area shape="rect" id="Node000003" href="$pugixml_8cpp.html#a07c6c1e786c5022d046058c4e7ef3946" title=" " alt="" coords="5,31,98,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,34,99,39,98,34,130,29"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="136,60,98,54,99,49,136,55"/>
+</map>

@@ -1,0 +1,75 @@
+<map id="Graphe::afficherGraphe" name="Graphe::afficherGraphe">
+<area shape="rect" id="Node000001" title="Graphe::afficherGraphe : permet l&#39;affichage du noeud dans la scene." alt="" coords="5,372,161,399"/>
+<area shape="rect" id="Node000002" href="$class_graphe.html#a6d7fa5535057a984e967f149bbec3681" title="Graphe::ajouterLien : permet de créer un lien entre 2 noeuds." alt="" coords="236,43,370,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,371,92,317,112,238,128,195,149,153,175,114,207,79,220,70,223,74,210,83,179,117,154,156,133,197,117,240,97,318,88,372"/>
+<area shape="rect" id="Node000006" href="$class_graphe.html#a30f59f4286f2daa120dcc657a816bad6" title="Graphe::ajouterNode permet d&#39;ajouter un noeud au graphe." alt="" coords="233,93,374,120"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="84,371,96,325,118,260,155,190,179,158,207,130,217,123,220,127,210,134,183,161,159,193,123,262,101,327,89,373"/>
+<area shape="rect" id="Node000011" href="$class_sdd.html#ad23dc56fb995d60ba229a8d50198edb1" title="getExigence : récupérer l&#39;attribut &#39;exigences&#39;" alt="" coords="241,144,366,171"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="86,371,101,333,125,281,161,227,183,202,207,181,225,170,228,175,210,185,186,206,165,230,130,284,106,335,91,372"/>
+<area shape="rect" id="Node000012" href="$class_srs.html#a129d1d7307eaf37a0177f5dd0587a039" title="Récupère la liste des exigences associées à ce fichier Srs." alt="" coords="243,195,364,221"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="89,370,133,303,167,264,207,231,227,221,229,226,210,236,171,268,137,307,94,373"/>
+<area shape="rect" id="Node000013" href="$class_sss.html#aa987c3248eb9697dd0e7dd45c23aeeab" title="Retourne la liste des exigences extraites." alt="" coords="241,245,366,272"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="96,369,142,326,174,302,207,282,225,274,227,279,210,286,177,307,146,330,99,373"/>
+<area shape="rect" id="Node000014" href="$class_node_item.html#a1c40f2a04122376a353379b13934d692" title="getFile : récupérer le fichier représenté par le noeud" alt="" coords="241,296,366,323"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="123,369,208,339,246,326,248,331,210,344,124,374"/>
+<area shape="rect" id="Node000015" href="$class_sdd.html#abb5875b133d9cd311ecff3c0220d9f68" title="Récupère les identifiants de toutes les exigences." alt="" coords="472,344,615,371"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="161,384,273,382,398,376,457,369,458,374,398,381,273,388,161,389"/>
+<area shape="rect" id="Node000019" href="$class_sss.html#ac2035363cff67a5a3eec31db9fd1928d" title="Récupère les identifiants des exigences filtrés par radicaux cochés." alt="" coords="472,293,615,320"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="161,371,398,332,457,321,458,326,398,337,162,376"/>
+<area shape="rect" id="Node000020" href="$class_srs.html#a5bf0f827307c722235894cd601100c5a" title="Récupère les identifiants des exigences qui correspondent aux critères sélectionnés." alt="" coords="209,448,398,491"/>
+<area shape="poly" id="edge22_Node000001_Node000020" title=" " alt="" coords="121,397,232,440,230,445,119,402"/>
+<area shape="rect" id="Node000029" href="$class_srs.html#ae0af6de0d0e77a1763ebae7eda369019" title="Vérifie si un fichier fils est associé à cet objet Srs." alt="" coords="258,515,349,541"/>
+<area shape="poly" id="edge34_Node000001_Node000029" title=" " alt="" coords="97,397,143,448,175,476,210,500,244,514,242,519,207,505,171,480,139,452,93,401"/>
+<area shape="rect" id="Node000030" href="$class_graphe.html#a6b9ed7761e77bb75115ffa3bab2bd251" title="Graphe::organiserLignes : permet d&#39;organiser l&#39;emplacement des noeud dans la scene selon le type de d..." alt="" coords="222,565,384,592"/>
+<area shape="poly" id="edge35_Node000001_Node000030" title=" " alt="" coords="93,398,109,430,135,471,169,514,210,551,218,556,215,561,207,555,165,518,130,474,105,432,88,400"/>
+<area shape="rect" id="Node000032" href="$class_tracabilite.html#aa4b20a753479f8ec779932831819f011" title="Calcule le taux de traçabilité entre deux ensembles d&#39;identifiants d&#39;exigences." alt="" coords="228,616,378,643"/>
+<area shape="poly" id="edge37_Node000001_Node000032" title=" " alt="" coords="91,398,104,439,128,494,163,552,185,579,210,602,217,606,214,611,207,606,181,583,159,555,123,496,99,440,86,400"/>
+<area shape="rect" id="Node000033" href="$class_tracabilite.html#af195afecf706424bb93d4fe3cbc17521" title="Calcul du taux de traçabilité entre un fichier SRS et un fichier SDD." alt="" coords="228,667,378,709"/>
+<area shape="poly" id="edge38_Node000001_Node000033" title=" " alt="" coords="89,399,101,447,123,515,159,588,183,623,210,653,217,658,214,662,207,657,178,626,154,591,118,517,96,448,84,400"/>
+<area shape="rect" id="Node000034" href="$class_tracabilite.html#a992e60825c1b231e0801b3c6f067b084" title="Calcul du taux de traçabilité entre un fichier SSS et un fichier SRS." alt="" coords="228,733,378,776"/>
+<area shape="poly" id="edge39_Node000001_Node000034" title=" " alt="" coords="88,399,96,457,115,543,131,590,152,637,178,681,211,719,217,725,213,729,207,723,174,684,147,639,126,592,110,544,90,458,83,399"/>
+<area shape="rect" id="Node000003" href="$class_graphe.html#abd5fe48289579292590b037e6ad2a821" title="Graphe::connectNodeAndLink : connecter un noeud à un lien pour synchroniser les coordonnées des noeud..." alt="" coords="446,43,641,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,53,431,53,431,59,371,59"/>
+<area shape="rect" id="Node000004" href="$class_node_item.html#ab8ed0c5e46ac893ab79998901f877a13" title=" " alt="" coords="691,5,875,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="633,39,678,32,679,38,634,45"/>
+<area shape="rect" id="Node000005" href="$class_link_item.html#a5d375d77cd8baa803e9c19d42dd9719f" title="Met à jour la position du lien graphique entre les deux items." alt="" coords="712,56,854,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="642,59,696,62,696,67,642,64"/>
+<area shape="rect" id="Node000007" href="$class_node_item.html#af4f23b81240f64044d8de7532c98933b" title="addFils : ajouter un fils au vecteur des fils (filsNodes)" alt="" coords="480,93,608,120"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="374,104,464,104,464,109,374,109"/>
+<area shape="rect" id="Node000010" href="$class_node_item.html#a716ff071ccf24a8c023f91da9cbf943d" title="addParent : attribuer un noeud parent (parent) à un noeud" alt="" coords="471,144,616,171"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="371,118,463,138,462,143,370,123"/>
+<area shape="rect" id="Node000008" href="$class_node_item.html#aacaaf7cc44cba8b259eccd4d6e94357d" title="Constructeur de la classe NodeItem." alt="" coords="711,119,855,145"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="609,111,696,120,695,125,608,116"/>
+<area shape="rect" id="Node000009" href="$class_node_item.html#a712057f5f28cf7c47624a4031614ccb8" title="updateBlinkingState : change le statut blinking chaque 500ms pour alterner les couleurs du noeud" alt="" coords="925,111,1096,153"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="855,129,909,129,909,135,855,135"/>
+<area shape="poly" id="edge10_Node000010_Node000008" title=" " alt="" coords="616,147,695,139,696,144,617,152"/>
+<area shape="rect" id="Node000016" href="$class_sss.html#affc8875d920b925d69d200a21de1cac6" title="Récupère la liste des radicaux sélectionnables dans une vue utilisateur." alt="" coords="699,384,867,411"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="616,367,685,378,684,383,615,372"/>
+<area shape="rect" id="Node000017" href="$class_file.html#a1cf6cc51e5830c3d5b21648c25b744ad" title=" " alt="" coords="727,283,839,309"/>
+<area shape="poly" id="edge17_Node000015_Node000017" title=" " alt="" coords="598,341,713,311,714,316,599,346"/>
+<area shape="rect" id="Node000018" href="$class_file.html#a0ce5206db2513a52b369bed49d77353b" title="File::isExcel vérifie si un fichier est un fichier excel à partir de son extension." alt="" coords="736,333,830,360"/>
+<area shape="poly" id="edge18_Node000015_Node000018" title=" " alt="" coords="615,351,721,347,721,352,615,357"/>
+<area shape="poly" id="edge20_Node000019_Node000017" title=" " alt="" coords="615,301,711,297,711,302,615,306"/>
+<area shape="poly" id="edge21_Node000019_Node000018" title=" " alt="" coords="616,316,722,334,721,339,615,321"/>
+<area shape="rect" id="Node000021" href="$class_srs.html#a7ccab4177175e2a3775d40175bde50a2" title="Vérifie si la cible de l&#39;exigence correspond à l&#39;un des critères sélectionnés." alt="" coords="451,456,636,483"/>
+<area shape="poly" id="edge23_Node000020_Node000021" title=" " alt="" coords="399,467,436,467,436,472,399,472"/>
+<area shape="rect" id="Node000023" href="$class_srs.html#a5747f3f4cf31abe57f3a30ebafa48156" title="Vérifie si l&#39;état de développement de l&#39;exigence correspond à l&#39;un des critères sélectionnés." alt="" coords="454,507,633,533"/>
+<area shape="poly" id="edge25_Node000020_Node000023" title=" " alt="" coords="399,487,463,500,462,506,398,492"/>
+<area shape="rect" id="Node000025" href="$class_srs.html#a6134af6ae8528f3a337e962820d4719d" title="Vérifie si l&#39;ID de l&#39;exigence correspond à l&#39;un des radicaux sélectionnés." alt="" coords="467,395,620,421"/>
+<area shape="poly" id="edge27_Node000020_Node000025" title=" " alt="" coords="389,445,473,423,474,428,390,450"/>
+<area shape="rect" id="Node000027" href="$class_srs.html#a42b47900f6688594f72f6dcf90f11167" title="Vérifie si la nécessité de l&#39;exigence correspond à l&#39;un des critères sélectionnés." alt="" coords="456,557,631,600"/>
+<area shape="poly" id="edge32_Node000020_Node000027" title=" " alt="" coords="377,489,399,500,414,511,424,522,433,533,447,543,456,548,454,553,445,548,430,537,420,526,411,515,397,505,374,494"/>
+<area shape="rect" id="Node000022" href="$class_exigence_srs.html#a8d029e4a12831a5b5417ad522caf6cf6" title="getCible" alt="" coords="707,485,859,512"/>
+<area shape="poly" id="edge24_Node000021_Node000022" title=" " alt="" coords="637,478,692,485,692,490,637,483"/>
+<area shape="rect" id="Node000024" href="$class_exigence_srs.html#a607bc94a0d902eb58081a86d3316e633" title="isDev" alt="" coords="714,536,852,563"/>
+<area shape="poly" id="edge26_Node000023_Node000024" title=" " alt="" coords="634,528,699,536,699,542,633,534"/>
+<area shape="poly" id="edge28_Node000025_Node000016" title=" " alt="" coords="620,402,684,399,684,404,621,407"/>
+<area shape="poly" id="edge30_Node000025_Node000017" title=" " alt="" coords="618,392,640,380,655,366,663,351,672,335,688,319,711,307,713,312,691,324,676,338,668,353,659,369,643,385,620,396"/>
+<area shape="poly" id="edge31_Node000025_Node000018" title=" " alt="" coords="598,392,721,360,722,365,599,397"/>
+<area shape="rect" id="Node000026" href="$class_exigence.html#a4ac2cb4f147eec9a69c47c27c6754d8b" title="getId" alt="" coords="727,435,839,461"/>
+<area shape="poly" id="edge29_Node000025_Node000026" title=" " alt="" coords="621,418,712,433,711,439,620,423"/>
+<area shape="rect" id="Node000028" href="$class_exigence_srs.html#a33687db613a7fe0e01e81064c452f342" title="getNecessaire" alt="" coords="689,587,877,613"/>
+<area shape="poly" id="edge33_Node000027_Node000028" title=" " alt="" coords="632,584,674,588,674,593,632,589"/>
+<area shape="rect" id="Node000031" href="$class_node_item.html#a4c5b5abac1c924bad96f34d927f63739" title="Retourne la zone occupée par le nœud dans la scène." alt="" coords="460,624,627,651"/>
+<area shape="poly" id="edge36_Node000030_Node000031" title=" " alt="" coords="362,590,472,617,471,622,360,595"/>
+</map>

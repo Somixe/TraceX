@@ -1,0 +1,5 @@
+<map id="MainWindow::afficherStats" name="MainWindow::afficherStats">
+<area shape="rect" id="Node000001" title="Affiche les statistiques sous forme d&#39;histogramme." alt="" coords="5,13,183,40"/>
+<area shape="rect" id="Node000002" href="$class_fenetre_statistiques.html#a4be8cc5568fd9aee29a2c5188294a4cd" title="Affiche un histogramme animé représentant les taux de traçabilité." alt="" coords="231,5,380,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,24,215,24,215,29,183,29"/>
+</map>

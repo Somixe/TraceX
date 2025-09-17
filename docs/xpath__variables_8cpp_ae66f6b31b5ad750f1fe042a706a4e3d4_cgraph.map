@@ -1,0 +1,19 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,55,149"/>
+<area shape="rect" id="Node000002" href="$classpugi_1_1xpath__variable__set.html#a91690b82232c2a175a9160302dc78081" title=" " alt="" coords="316,115,453,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,133,301,133,301,139,55,139"/>
+<area shape="rect" id="Node000003" href="$classpugi_1_1xpath__query.html#a5043f9148553f25c017bfd815a509bd8" title=" " alt="" coords="318,27,451,69"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="54,127,102,115,302,65,304,70,103,120,56,132"/>
+<area shape="rect" id="Node000004" href="$classpugi_1_1xml__document.html#aefb4c986984462e3972cf332156dbf00" title=" " alt="" coords="110,240,248,283"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="41,148,66,186,104,226,109,229,106,234,101,230,62,189,37,151"/>
+<area shape="rect" id="Node000006" href="$classpugi_1_1xml__node.html#a52c45598bf8fd13e90aec434af35f1fb" title=" " alt="" coords="103,5,255,48"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="42,120,68,93,101,65,117,54,120,58,104,69,71,97,45,124"/>
+<area shape="rect" id="Node000007" href="$classpugi_1_1xpath__variable__set.html#a97f57493e6017940ae4c775cdd9a4204" title=" " alt="" coords="110,173,248,216"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="56,143,110,165,108,170,54,148"/>
+<area shape="rect" id="Node000005" href="$classpugi_1_1xml__document.html#a56e84f1a61d9798b8095f633d2174ab5" title=" " alt="" coords="316,240,454,283"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="248,259,300,259,300,264,248,264"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="256,32,303,37,303,42,255,37"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="247,173,300,157,302,162,249,178"/>
+<area shape="rect" id="Node000008" href="$classpugi_1_1xpath__variable.html#ac3c873d817f7e2624013298fae542bad" title=" " alt="" coords="303,181,466,208"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="248,192,288,192,288,197,248,197"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="File::getRadical" name="File::getRadical">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1099,132,1211,159"/>
+<area shape="rect" id="Node000002" href="$class_sdd.html#abb5875b133d9cd311ecff3c0220d9f68" title="Récupère les identifiants de toutes les exigences." alt="" coords="684,5,826,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1129,123,1093,93,1050,66,993,47,934,34,826,22,827,17,935,28,995,42,1052,62,1097,88,1132,119"/>
+<area shape="rect" id="Node000007" href="$class_sss.html#ac2035363cff67a5a3eec31db9fd1928d" title="Récupère les identifiants des exigences filtrés par radicaux cochés." alt="" coords="684,56,826,83"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1118,126,1086,110,1050,97,992,84,933,76,827,71,827,65,934,71,993,79,1052,92,1088,105,1120,122"/>
+<area shape="rect" id="Node000008" href="$class_sdd.html#af8c3112863410531a30e621068405e48" title="Extrait les radicaux des exigences dans le fichier SDD (format Excel uniquement)." alt="" coords="912,107,1037,133"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1083,138,1037,131,1038,126,1084,133"/>
+<area shape="rect" id="Node000009" href="$class_srs.html#a35be965c2d73c99277268b8a0e0848b8" title="Extrait et ajoute les radicaux à la liste des filtres si nécessaire." alt="" coords="913,157,1036,184"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1084,158,1036,165,1036,159,1083,153"/>
+<area shape="rect" id="Node000010" href="$class_sss.html#a9d02ddee75033e30a272c437dd1825a3" title="Extrait les radicaux à partir des identifiants d’exigence, et les enregistre." alt="" coords="912,208,1037,235"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="1116,169,1052,198,1021,210,1019,205,1050,194,1113,164"/>
+<area shape="rect" id="Node000011" href="$class_srs.html#a6134af6ae8528f3a337e962820d4719d" title="Vérifie si l&#39;ID de l&#39;exigence correspond à l&#39;un des radicaux sélectionnés." alt="" coords="898,259,1051,285"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1136,172,1100,211,1052,249,1028,261,1026,256,1050,244,1096,208,1132,169"/>
+<area shape="rect" id="Node000003" href="$class_graphe.html#ac187f1b59961dc86821200ed2c50319d" title="Graphe::afficherGraphe : permet l&#39;affichage du noeud dans la scene." alt="" coords="457,56,612,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="680,39,596,58,595,53,678,33"/>
+<area shape="rect" id="Node000004" href="$class_main_window.html#aeb118e6002acdca1322448da92562cb9" title="Créer et configure une nouvelle fenêtre de graphe_affiche avec des boutons de zoom (+ et –)." alt="" coords="199,27,409,53"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="441,60,409,56,410,51,442,55"/>
+<area shape="rect" id="Node000006" href="$class_main_window.html#a7fe434f98f5f25a3f11ded44092b8b4f" title="Met à jour dynamiquement le graphe en fonction des filtres cochés." alt="" coords="201,77,406,120"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="442,84,407,88,407,83,441,78"/>
+<area shape="rect" id="Node000005" href="$class_main_window.html#a4849c50c272bd96d63f597e3ec011dab" title="Gère l&#39;action du bouton pour afficher un graphe." alt="" coords="5,19,151,61"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="183,43,151,43,151,37,183,37"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="668,72,613,72,613,67,668,67"/>
+<area shape="rect" id="Node000012" href="$class_srs.html#a5bf0f827307c722235894cd601100c5a" title="Récupère les identifiants des exigences qui correspondent aux critères sélectionnés." alt="" coords="660,179,850,221"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="916,256,821,224,823,219,918,251"/>
+<area shape="poly" id="edge13_Node000012_Node000003" title=" " alt="" coords="703,173,558,86,561,81,706,168"/>
+</map>

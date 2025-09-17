@@ -1,0 +1,22 @@
+<map id="pugi::xml_node::traverse" name="pugi::xml_node::traverse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,97,170,124"/>
+<area shape="rect" id="Node000002" href="$classpugi_1_1xml__tree__walker.html#a4822454e1bfc72771d5b808fb65cbce0" title=" " alt="" coords="454,9,602,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,94,217,79,438,41,439,46,218,84,147,99"/>
+<area shape="rect" id="Node000006" href="$classpugi_1_1xml__tree__walker.html#a7ce500c6b0d3a0446d17daa57f9b4622" title=" " alt="" coords="439,76,616,103"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="170,104,423,92,423,97,170,109"/>
+<area shape="rect" id="Node000007" href="$classpugi_1_1xml__tree__walker.html#a309363c9d17ef3fc8cacc6f71fcbea88" title=" " alt="" coords="230,119,378,161"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="170,119,215,125,214,131,169,124"/>
+<area shape="rect" id="Node000008" href="$classpugi_1_1xml__node.html#a4641476ddd4869da18f0738186b17368" title=" " alt="" coords="218,185,391,212"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="115,122,163,146,219,171,238,178,236,183,217,176,160,151,113,127"/>
+<area shape="rect" id="Node000003" href="$classpugi_1_1xml__tree__walker.html#a156d917a92815c7b593bd5ef19f6d5fb" title=" " alt="" coords="664,39,813,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="603,47,649,54,648,59,602,52"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="663,44,617,37,618,32,664,38"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="701,39,699,29,706,20,719,14,739,12,760,14,772,21,770,25,758,20,738,17,720,19,709,24,705,30,706,38"/>
+<area shape="rect" id="Node000004" href="$classpugi_1_1xml__tree__walker.html#a3673bcaf2fbbcb01f4e23d5859f7f04e" title=" " alt="" coords="861,5,1009,48"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="813,45,845,39,846,45,814,50"/>
+<area shape="rect" id="Node000005" href="$classpugi_1_1xml__tree__walker.html#a18d1346867d33ec1da5d96cc047313c5" title=" " alt="" coords="861,72,1009,115"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="814,70,846,75,845,81,813,75"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="616,74,649,70,649,75,617,80"/>
+<area shape="poly" id="edge11_Node000007_Node000003" title=" " alt="" coords="379,138,492,133,554,125,616,112,650,101,683,86,686,91,652,106,617,117,555,130,492,138,379,144"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="379,121,450,104,451,109,380,126"/>
+</map>

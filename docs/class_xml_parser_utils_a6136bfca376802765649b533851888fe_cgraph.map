@@ -1,0 +1,9 @@
+<map id="XmlParserUtils::ajouterStyleAListe" name="XmlParserUtils::ajouterStyleAListe">
+<area shape="rect" id="Node000001" title="Ajoute un style à une QListWidget sous forme d’un item contenant une case à cocher et un label." alt="" coords="5,23,192,65"/>
+<area shape="rect" id="Node000002" href="$class_style_file.html#af827ff6c030ddaeb0ef47948ea1a354b" title="Récupère le nom du style." alt="" coords="241,5,374,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,30,225,26,226,31,192,35"/>
+<area shape="rect" id="Node000003" href="$class_style_file.html#a5b7857d54a195e406d41516de470a5f8" title="toQString" alt="" coords="240,56,375,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,53,224,57,224,62,192,58"/>
+<area shape="rect" id="Node000004" href="$class_style_file.html#a40925364957b5d00d794937292da21d3" title="getPoliceSize : récupère la taille du style" alt="" coords="423,56,583,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="375,67,407,67,407,72,375,72"/>
+</map>

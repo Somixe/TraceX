@@ -1,0 +1,12 @@
+<map id="xml_stream_chunk::xml_stream_chunk" name="xml_stream_chunk::xml_stream_chunk">
+<area shape="rect" id="Node000001" title=" " alt="" coords="628,23,789,65"/>
+<area shape="rect" id="Node000002" href="$structxml__stream__chunk.html#a2c01c25f2791d25214d3c73fae63f8d9" title=" " alt="" coords="402,5,577,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="612,36,577,31,578,26,613,30"/>
+<area shape="rect" id="Node000005" href="$structxml__stream__chunk.html#a3e9bf7280c96a7433d60af129873a16f" title=" " alt="" coords="398,56,580,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="613,58,581,61,581,56,612,52"/>
+<area shape="rect" id="Node000003" href="$pugixml_8cpp.html#a9cdb599cc0642b0e5c69d761de3d9882" title=" " alt="" coords="177,31,350,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="386,33,351,37,350,32,386,28"/>
+<area shape="rect" id="Node000004" href="$pugixml_8cpp.html#a826b7e183311c8aa4e5b25157a3b3d3f" title=" " alt="" coords="5,31,129,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="161,47,129,47,129,41,161,41"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="382,60,350,56,351,51,383,55"/>
+</map>

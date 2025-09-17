@@ -1,0 +1,18 @@
+<map id="node_output_simple" name="node_output_simple">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,143,133"/>
+<area shape="rect" id="Node000002" href="$pugixml_8cpp.html#a05d1bf3ded0294ee5109cb5cacdc4f99" title=" " alt="" coords="191,56,344,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,103,199,84,200,90,129,109"/>
+<area shape="rect" id="Node000003" href="$pugixml_8cpp.html#ab350d053c07c3976bb39a151581356fc" title=" " alt="" coords="413,5,499,32"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="89,104,132,71,160,55,190,41,244,27,299,18,397,14,398,19,299,24,245,32,192,47,163,59,135,76,92,108"/>
+<area shape="rect" id="Node000006" href="$pugixml_8cpp.html#a2cc26a3d1377e49746725ab2044e6a0d" title=" " alt="" coords="191,107,344,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="143,117,175,117,175,123,143,123"/>
+<area shape="rect" id="Node000007" href="$pugixml_8cpp.html#a36c9ed3414e0605a79a27cf8e711dfa9" title=" " alt="" coords="194,157,341,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="129,131,200,150,199,156,127,137"/>
+<area shape="rect" id="Node000008" href="$pugixml_8cpp.html#acbd8e4df8e97263b7e756b37cbf301a1" title=" " alt="" coords="205,208,330,235"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="95,132,138,162,192,194,205,200,203,204,189,198,135,167,92,136"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="319,53,397,32,399,37,321,58"/>
+<area shape="rect" id="Node000005" href="$pugixml_8cpp.html#a478905783b7081440dc5076ff42cd1e2" title=" " alt="" coords="392,56,520,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="344,67,376,67,376,72,344,72"/>
+<area shape="rect" id="Node000004" href="$pugixml_8cpp.html#ab87511166fc7a13ed9e2d85dcb73670a" title=" " alt="" coords="568,5,711,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="500,16,553,16,553,21,500,21"/>
+</map>

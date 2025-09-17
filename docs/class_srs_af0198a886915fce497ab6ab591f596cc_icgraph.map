@@ -1,0 +1,7 @@
+<map id="Srs::reinitialiserFiltres" name="Srs::reinitialiserFiltres">
+<area shape="rect" id="Node000001" title="Réinitialise la liste des filtres de la classe Srs." alt="" coords="431,13,578,40"/>
+<area shape="rect" id="Node000002" href="$class_xml_parser_utils.html#aff91e85ac9b54c18386c8d4bc5383ab2" title="Extrait les exigences à partir des fichiers SSS/SRS/SDD en fonction des criteres sélectionnés." alt="" coords="213,5,383,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="416,29,383,29,383,24,416,24"/>
+<area shape="rect" id="Node000003" href="$class_xml_parser_utils.html#aeda3502da797422864017b91b82bdef7" title="Affiche les styles détectés dans les documents SSS, SRS et SDD dans une boite de dialogue." alt="" coords="5,5,165,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="197,29,165,29,165,24,197,24"/>
+</map>

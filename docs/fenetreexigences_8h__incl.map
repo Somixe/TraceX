@@ -1,0 +1,7 @@
+<map id="fenetreexigences.h" name="fenetreexigences.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="29,5,160,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,78,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,34,62,69,58,66,83,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="102,80,195,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="106,31,132,66,128,69,102,34"/>
+</map>

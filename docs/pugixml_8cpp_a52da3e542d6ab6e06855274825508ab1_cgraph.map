@@ -1,0 +1,18 @@
+<map id="get_strconv_pcdata" name="get_strconv_pcdata">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,141,83"/>
+<area shape="rect" id="Node000002" href="$structstrconv__pcdata__impl.html#a7f14166de54e30596aa4e398568b4a5f" title=" " alt="" coords="189,48,330,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,67,173,67,173,72,141,72"/>
+<area shape="rect" id="Node000003" href="$structgap.html#a7d5e84d56dbeef1310977fe1ecec5ded" title=" " alt="" coords="396,5,474,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="330,46,380,32,381,37,331,51"/>
+<area shape="rect" id="Node000004" href="$structgap.html#a9c0d0b12bc778c8439c8aec7747ab2b0" title=" " alt="" coords="556,56,634,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="330,67,540,67,540,72,330,72"/>
+<area shape="rect" id="Node000005" href="$pugixml_8cpp.html#a27b2a01a0bee31f8526055bdf590e42c" title=" " alt="" coords="378,107,491,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="331,87,372,99,371,104,330,92"/>
+<area shape="poly" id="edge8_Node000005_Node000004" title=" " alt="" coords="479,103,541,84,542,89,480,109"/>
+<area shape="rect" id="Node000006" href="$structutf8__writer.html#a288e9c5f3720b95ae6b77330ad38dd56" title=" " alt="" coords="539,107,651,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="492,117,524,117,524,123,492,123"/>
+<area shape="rect" id="Node000007" href="$structutf8__writer.html#ac03dfaf797d599afdf0be7def86ff9b9" title=" " alt="" coords="699,81,813,108"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="651,109,683,103,684,109,652,114"/>
+<area shape="rect" id="Node000008" href="$structutf8__writer.html#ac4ec52da6f37225ba4fde259bff2f86c" title=" " alt="" coords="701,132,811,159"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="652,126,686,132,685,137,651,131"/>
+</map>

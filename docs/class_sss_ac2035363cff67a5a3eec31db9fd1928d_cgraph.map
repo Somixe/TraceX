@@ -1,0 +1,7 @@
+<map id="Sss::getIdsExigence" name="Sss::getIdsExigence">
+<area shape="rect" id="Node000001" title="Récupère les identifiants des exigences filtrés par radicaux cochés." alt="" coords="5,31,148,57"/>
+<area shape="rect" id="Node000002" href="$class_file.html#a1cf6cc51e5830c3d5b21648c25b744ad" title=" " alt="" coords="196,5,308,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,31,180,26,180,32,148,36"/>
+<area shape="rect" id="Node000003" href="$class_file.html#a0ce5206db2513a52b369bed49d77353b" title="File::isExcel vérifie si un fichier est un fichier excel à partir de son extension." alt="" coords="205,56,298,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,52,190,58,189,63,148,57"/>
+</map>

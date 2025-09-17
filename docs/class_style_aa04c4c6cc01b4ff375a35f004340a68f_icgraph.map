@@ -1,0 +1,11 @@
+<map id="Style::Style_Button_analyse" name="Style::Style_Button_analyse">
+<area shape="rect" id="Node000001" title="Retourne le style QSS par défaut du bouton &quot;analyse&quot;." alt="" coords="460,39,594,81"/>
+<area shape="rect" id="Node000002" href="$class_main_window.html#a0aad0755977fe55f1449e76f9b50f7ca" title="Force la réactualisation du style (QSS) appliqué à un widget sans avoir à redémarrer l&#39;application." alt="" coords="222,16,412,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="444,51,412,46,413,41,445,45"/>
+<area shape="rect" id="Node000004" href="$class_main_window.html#a846d84889b8118db546b37c26a27f301" title="Ajoute le bouton &quot;Analyse&quot; dans la barre de navigation ." alt="" coords="223,68,411,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="445,74,412,79,411,74,444,69"/>
+<area shape="rect" id="Node000003" href="$class_main_window.html#a7a50eed004a23b8359083217ac44db27" title="Réinitialise la couleur de tous les boutons de navigation." alt="" coords="5,5,174,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,31,174,30,174,25,206,25"/>
+<area shape="rect" id="Node000005" href="$class_main_window.html#a4849c50c272bd96d63f597e3ec011dab" title="Gère l&#39;action du bouton pour afficher un graphe." alt="" coords="17,72,162,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="207,94,163,95,163,89,207,89"/>
+</map>

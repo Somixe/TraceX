@@ -1,0 +1,10 @@
+<map id="load_stream_data_noseek" name="load_stream_data_noseek">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,179,57"/>
+<area shape="rect" id="Node000002" href="$structxml__stream__chunk.html#a2c01c25f2791d25214d3c73fae63f8d9" title=" " alt="" coords="230,5,406,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,32,214,28,215,33,179,37"/>
+<area shape="rect" id="Node000004" href="$structxml__stream__chunk.html#a3e9bf7280c96a7433d60af129873a16f" title=" " alt="" coords="227,56,409,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,51,211,55,211,60,179,56"/>
+<area shape="rect" id="Node000003" href="$structxml__stream__chunk.html#a8b87fcb2074014dd252f752a95092337" title=" " alt="" coords="457,23,617,65"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="406,26,442,30,441,36,406,31"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="409,56,441,52,442,58,409,61"/>
+</map>

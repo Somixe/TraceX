@@ -1,0 +1,73 @@
+<map id="XmlParserUtils::afficherStyles" name="XmlParserUtils::afficherStyles">
+<area shape="rect" id="Node000001" title="Affiche les styles détectés dans les documents SSS, SRS et SDD dans une boite de dialogue." alt="" coords="5,620,165,663"/>
+<area shape="rect" id="Node000002" href="$class_xml_parser_utils.html#a6136bfca376802765649b533851888fe" title="Ajoute un style à une QListWidget sous forme d’un item contenant une case à cocher et un label." alt="" coords="213,48,399,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,619,288,104,293,106,97,621"/>
+<area shape="rect" id="Node000006" href="$class_xml_parser_utils.html#a84310a0d70629b320a2fb1432701ddf5" title="Extrait tous les styles utilisés dans un document Word à partir du fichier XML des styles." alt="" coords="227,384,384,427"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="105,618,272,436,276,440,108,621"/>
+<area shape="rect" id="Node000023" href="$class_xml_parser_utils.html#aff91e85ac9b54c18386c8d4bc5383ab2" title="Extrait les exigences à partir des fichiers SSS/SRS/SDD en fonction des criteres sélectionnés." alt="" coords="221,831,391,873"/>
+<area shape="poly" id="edge29_Node000001_Node000023" title=" " alt="" coords="111,661,273,818,269,822,107,665"/>
+<area shape="rect" id="Node000032" href="$class_style.html#a0965a1c8aeaac036a60f37ff89325b4a" title="Retourne le style CSS pour la barre de progression." alt="" coords="458,1083,624,1109"/>
+<area shape="poly" id="edge39_Node000001_Node000032" title=" " alt="" coords="96,662,140,763,174,825,215,884,270,947,319,992,374,1029,448,1068,462,1075,460,1080,446,1073,371,1033,315,996,266,951,211,887,169,828,135,765,92,664"/>
+<area shape="rect" id="Node000003" href="$class_style_file.html#af827ff6c030ddaeb0ef47948ea1a354b" title="Récupère le nom du style." alt="" coords="474,56,607,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="400,67,459,67,459,72,400,72"/>
+<area shape="rect" id="Node000004" href="$class_style_file.html#a5b7857d54a195e406d41516de470a5f8" title="toQString" alt="" coords="473,5,608,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="399,47,460,33,461,38,400,52"/>
+<area shape="rect" id="Node000005" href="$class_style_file.html#a40925364957b5d00d794937292da21d3" title="getPoliceSize : récupère la taille du style" alt="" coords="687,5,848,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="609,16,672,16,672,21,609,21"/>
+<area shape="rect" id="Node000007" href="$classpugi_1_1xml__attribute.html#af4cccce101e1dfda71c508184b691d07" title=" " alt="" coords="476,275,605,317"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="349,381,446,334,472,322,475,326,448,338,351,386"/>
+<area shape="rect" id="Node000008" href="$classpugi_1_1xml__attribute.html#ac18639df6493d250601566d1156c38d9" title=" " alt="" coords="703,333,832,376"/>
+<area shape="poly" id="edge28_Node000006_Node000008" title=" " alt="" coords="385,394,687,361,688,366,385,399"/>
+<area shape="rect" id="Node000009" href="$classpugi_1_1xml__node.html#a2d27d392a789976eb1aef9d49f72393e" title=" " alt="" coords="685,400,850,427"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="385,404,670,409,670,414,385,409"/>
+<area shape="rect" id="Node000010" href="$classpugi_1_1xml__node.html#a4154ffb6451d4203b74bb56d3f3ecf50" title=" " alt="" coords="695,451,840,477"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="385,413,680,450,680,456,385,418"/>
+<area shape="rect" id="Node000012" href="$classpugi_1_1xml__node.html#a4f72c001fed61753fa76fd32d4e978af" title=" " alt="" coords="686,527,849,553"/>
+<area shape="poly" id="edge12_Node000006_Node000012" title=" " alt="" coords="322,425,343,455,372,489,407,521,448,546,479,556,512,563,579,568,643,564,699,554,700,560,643,569,579,573,511,568,478,561,446,550,404,526,368,493,339,458,318,429"/>
+<area shape="rect" id="Node000015" href="$class_file_utils.html#af356104833af6eb8c70de4ba0f730d72" title="delete_extra : supprime les fichiers, dossiers inutiles créés" alt="" coords="466,107,615,133"/>
+<area shape="poly" id="edge15_Node000006_Node000015" title=" " alt="" coords="310,383,325,333,352,268,392,201,417,170,445,143,451,139,454,143,449,147,421,174,396,204,357,271,330,335,315,384"/>
+<area shape="rect" id="Node000016" href="$class_file_utils.html#a79a5b5635d173ed94088ecea7e22f3b8" title="ExtractXmlFolder." alt="" coords="452,157,630,184"/>
+<area shape="poly" id="edge16_Node000006_Node000016" title=" " alt="" coords="313,383,331,342,360,291,398,239,420,215,445,194,453,189,456,193,449,198,424,219,402,242,364,294,336,345,318,385"/>
+<area shape="rect" id="Node000019" href="$class_xml_parser_utils.html#af6f278b0e65ff20d299d553afa78e372" title="Récupère les identifiants de style utilisés dans un document XML Word." alt="" coords="473,493,608,536"/>
+<area shape="poly" id="edge19_Node000006_Node000019" title=" " alt="" coords="351,425,448,472,475,484,472,489,446,477,349,430"/>
+<area shape="rect" id="Node000020" href="$classpugi_1_1xml__document.html#aefb4c986984462e3972cf332156dbf00" title=" " alt="" coords="698,603,837,645"/>
+<area shape="poly" id="edge26_Node000006_Node000020" title=" " alt="" coords="320,426,340,460,368,500,405,541,448,574,506,599,567,614,628,622,683,625,683,630,627,628,566,619,504,604,446,578,401,545,364,504,335,462,316,428"/>
+<area shape="rect" id="Node000022" href="$class_xml_parser_utils.html#adf926329b8880dce4cbab64c2b7c0b4b" title="Convertit une couleur en format RGB en son nom de couleur correspondant." alt="" coords="468,208,614,251"/>
+<area shape="poly" id="edge27_Node000006_Node000022" title=" " alt="" coords="321,382,373,322,407,289,446,260,453,256,456,260,448,265,411,293,376,326,325,385"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="606,310,689,332,687,337,604,315"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="726,333,724,323,731,314,746,309,768,307,791,309,805,315,803,320,790,314,767,312,747,314,734,319,729,325,731,332"/>
+<area shape="rect" id="Node000011" href="$classpugi_1_1xml__node.html#a4641476ddd4869da18f0738186b17368" title=" " alt="" coords="901,451,1074,477"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="840,461,885,461,885,467,840,467"/>
+<area shape="rect" id="Node000013" href="$classpugi_1_1xml__node.html#aeff3362bf030a0df28ec2db9b84498f1" title=" " alt="" coords="913,501,1062,528"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="849,528,897,522,898,528,849,533"/>
+<area shape="rect" id="Node000014" href="$classpugi_1_1xml__node.html#aafa1deeb5fe928d07cd7caebbf975527" title=" " alt="" coords="918,552,1056,579"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="849,547,903,553,902,558,849,552"/>
+<area shape="rect" id="Node000017" href="$class_file_utils.html#a8b609fd70d9ed08bc7edad1087c9ec13" title="CreateCopy : Crée le path d&#39;une copie d&#39;un fichier." alt="" coords="694,132,841,159"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="630,158,678,153,679,158,630,163"/>
+<area shape="rect" id="Node000018" href="$class_file_utils.html#aa85d23111e76d16339d7f5c3603242cd" title="CreateZipFolder Crée le path du dossier zip du fichier copie." alt="" coords="682,183,853,209"/>
+<area shape="poly" id="edge18_Node000016_Node000018" title=" " alt="" coords="630,178,667,182,667,187,630,183"/>
+<area shape="poly" id="edge25_Node000019_Node000008" title=" " alt="" coords="560,491,612,439,645,411,681,386,689,381,691,386,684,390,648,415,615,443,563,495"/>
+<area shape="poly" id="edge20_Node000019_Node000009" title=" " alt="" coords="576,491,625,463,681,436,699,429,701,434,683,441,628,468,579,495"/>
+<area shape="poly" id="edge21_Node000019_Node000010" title=" " alt="" coords="608,497,689,479,690,484,609,502"/>
+<area shape="poly" id="edge22_Node000019_Node000012" title=" " alt="" coords="609,520,671,527,671,532,608,525"/>
+<area shape="poly" id="edge23_Node000019_Node000020" title=" " alt="" coords="588,534,709,593,707,598,586,539"/>
+<area shape="rect" id="Node000021" href="$classpugi_1_1xml__document.html#a56e84f1a61d9798b8095f633d2174ab5" title=" " alt="" coords="918,603,1056,645"/>
+<area shape="poly" id="edge24_Node000020_Node000021" title=" " alt="" coords="837,621,903,621,903,627,837,627"/>
+<area shape="rect" id="Node000024" href="$class_xml_parser_utils.html#ada187bfcd0bf43b35eccfcdaa16d29ad" title="Retourne l&#39;index du premier élément coché dans un QListWidget contenant des QCheckBox." alt="" coords="447,1016,634,1059"/>
+<area shape="poly" id="edge30_Node000023_Node000024" title=" " alt="" coords="324,872,375,936,410,971,449,1002,456,1006,453,1011,445,1006,406,975,371,939,320,875"/>
+<area shape="rect" id="Node000025" href="$class_srs.html#a285927bccba3a84b3cd087b5ecc5c158" title="Récupère le fichier fils associé à cet objet Srs." alt="" coords="496,661,585,688"/>
+<area shape="poly" id="edge31_Node000023_Node000025" title=" " alt="" coords="319,829,369,764,405,728,446,698,480,683,482,688,448,702,409,732,373,767,323,832"/>
+<area shape="rect" id="Node000026" href="$class_srs.html#a5382aad692ba4e12eaf10ad23777263c" title="Récupère la liste des filtres associés à la classe Srs." alt="" coords="489,712,592,739"/>
+<area shape="poly" id="edge32_Node000023_Node000026" title=" " alt="" coords="330,828,381,788,446,748,473,738,475,742,448,753,384,792,333,832"/>
+<area shape="rect" id="Node000027" href="$class_srs.html#af0198a886915fce497ab6ab591f596cc" title="Réinitialise la liste des filtres de la classe Srs." alt="" coords="467,763,614,789"/>
+<area shape="poly" id="edge33_Node000023_Node000027" title=" " alt="" coords="364,827,446,799,470,791,472,797,448,804,366,833"/>
+<area shape="rect" id="Node000028" href="$class_sss.html#a01435c7f5709360639702a33c3337b91" title="Vide la liste statique des radicaux enregistrés." alt="" coords="456,813,625,840"/>
+<area shape="poly" id="edge34_Node000023_Node000028" title=" " alt="" coords="391,840,441,835,441,840,392,845"/>
+<area shape="rect" id="Node000029" href="$class_sdd.html#a09c357b4a146917a01b106bdb79e6c06" title="setStyle : attribue un style aux exigences des Sdd" alt="" coords="490,864,591,891"/>
+<area shape="poly" id="edge35_Node000023_Node000029" title=" " alt="" coords="392,859,475,868,475,873,391,864"/>
+<area shape="rect" id="Node000030" href="$class_srs.html#a5fd2435beeb5594a98fbfd2e696411c3" title="Définit le style associé au fichier Srs." alt="" coords="492,915,589,941"/>
+<area shape="poly" id="edge36_Node000023_Node000030" title=" " alt="" coords="366,871,448,900,478,909,476,914,446,905,364,877"/>
+<area shape="rect" id="Node000031" href="$class_sss.html#a9d3a9f58677a78422d36dd3e556a30ac" title="Définit le style utilisé pour identifier les exigences." alt="" coords="490,965,591,992"/>
+<area shape="poly" id="edge37_Node000023_Node000031" title=" " alt="" coords="333,872,384,912,448,951,477,962,475,967,446,956,381,916,330,876"/>
+<area shape="poly" id="edge38_Node000023_Node000032" title=" " alt="" coords="323,873,449,1069,456,1073,453,1078,445,1073,319,875"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="MainWindow::Ajout_Analyse_bouton" name="MainWindow::Ajout_Analyse_bouton">
+<area shape="rect" id="Node000001" title="Ajoute le bouton &quot;Analyse&quot; dans la barre de navigation ." alt="" coords="5,101,194,144"/>
+<area shape="rect" id="Node000002" href="$class_fenetre_statistiques.html#a4be8cc5568fd9aee29a2c5188294a4cd" title="Affiche un histogramme animé représentant les taux de traçabilité." alt="" coords="272,5,421,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,98,241,58,258,51,260,56,243,62,148,103"/>
+<area shape="rect" id="Node000003" href="$class_style.html#a0735fd61859ca882255a0a51c4d3f11a" title="Retourne le style QSS pour changer la couleur du bouton &quot;analyse&quot; en bleu." alt="" coords="277,72,416,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,109,261,101,262,106,195,114"/>
+<area shape="rect" id="Node000004" href="$class_main_window.html#ab8cbe4a5c1ff241ef700b7ca25d7d2fa" title="Ce méthode dirige l&#39;utilisateur vers la page &quot;Analyse&quot;." alt="" coords="242,139,451,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,131,226,135,226,140,194,137"/>
+<area shape="rect" id="Node000005" href="$class_style.html#aa04c4c6cc01b4ff375a35f004340a68f" title="Retourne le style QSS par défaut du bouton &quot;analyse&quot;." alt="" coords="279,189,414,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="156,142,243,175,266,183,264,188,241,180,154,147"/>
+</map>

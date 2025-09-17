@@ -1,0 +1,14 @@
+<map id="xml_document_struct" name="xml_document_struct">
+<area shape="rect" id="Node000001" title=" " alt="" coords="132,99,278,125"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,123,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,39,187,96,184,100,95,43"/>
+<area shape="rect" id="Node000003" href="$structxml__allocator.html" title=" " alt="" coords="342,5,440,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="355,42,290,74,235,100,232,96,288,70,352,37"/>
+<area shape="rect" id="Node000004" href="$structxml__memory__page.html" title=" " alt="" coords="313,99,444,125"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="372,46,367,57,367,78,374,97,369,99,361,79,362,55,367,43"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="409,87,420,71,422,61,419,52,404,34,408,31,423,49,427,61,425,73,413,90"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="461,103,471,112,463,120,445,123,444,118,461,115,466,112,458,108"/>
+<area shape="rect" id="Node000005" href="$structxml__extra__buffer.html" title=" " alt="" coords="147,5,264,32"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="208,48,208,98,203,98,203,48"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="281,10,291,19,282,27,265,30,264,24,280,22,285,19,278,15"/>
+</map>

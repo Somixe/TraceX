@@ -1,0 +1,18 @@
+<map id="pugi::xml_tree_walker::begin" name="pugi::xml_tree_walker::begin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="933,66,1081,109"/>
+<area shape="rect" id="Node000002" href="$classpugi_1_1xml__node.html#a651059099765f6c35833b4e237a895de" title=" " alt="" coords="103,42,267,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="956,61,921,45,884,33,798,18,709,10,620,8,533,11,375,26,255,44,254,39,374,20,532,6,619,3,709,5,798,13,886,28,923,40,958,56"/>
+<area shape="rect" id="Node000004" href="$classpugi_1_1xml__tree__walker.html#a156d917a92815c7b593bd5ef19f6d5fb" title=" " alt="" coords="737,66,885,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="918,99,885,99,886,94,918,94"/>
+<area shape="rect" id="Node000003" href="$traverse__walker_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,42,55,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,58,55,58,55,53,87,53"/>
+<area shape="poly" id="edge4_Node000004_Node000001" title=" " alt="" coords="901,76,933,76,933,82,901,81"/>
+<area shape="poly" id="edge10_Node000004_Node000004" title=" " alt="" coords="842,53,831,47,811,45,792,47,781,52,777,58,778,65,773,66,772,56,778,47,791,42,811,40,832,42,845,48"/>
+<area shape="rect" id="Node000005" href="$classpugi_1_1xml__tree__walker.html#a7ce500c6b0d3a0446d17daa57f9b4622" title=" " alt="" coords="511,50,689,77"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="721,80,689,77,689,71,721,75"/>
+<area shape="rect" id="Node000006" href="$classpugi_1_1xml__tree__walker.html#a309363c9d17ef3fc8cacc6f71fcbea88" title=" " alt="" coords="315,93,463,136"/>
+<area shape="poly" id="edge9_Node000004_Node000006" title=" " alt="" coords="721,96,464,112,464,107,721,91"/>
+<area shape="poly" id="edge8_Node000005_Node000002" title=" " alt="" coords="495,64,267,60,267,55,496,59"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="527,84,464,99,463,94,526,79"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="299,91,233,72,235,67,301,86"/>
+</map>

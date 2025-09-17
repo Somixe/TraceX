@@ -1,0 +1,13 @@
+<map id="sort" name="sort">
+<area shape="rect" id="Node000001" title=" " alt="" coords="6,56,50,83"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="6,57,3,47,5,38,14,32,28,29,43,32,51,39,47,43,41,37,28,35,16,37,10,41,8,47,11,55"/>
+<area shape="rect" id="Node000002" href="$pugixml_8cpp.html#ae32103b72e8928c87dfa9bce03565bb0" title=" " alt="" coords="98,5,197,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,58,99,36,101,41,51,63"/>
+<area shape="rect" id="Node000003" href="$pugixml_8cpp.html#a1212d7df5db87e06b12d2a2705e4b73d" title=" " alt="" coords="112,56,182,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="50,67,96,67,96,72,50,72"/>
+<area shape="rect" id="Node000005" href="$pugixml_8cpp.html#a9c094b50369e7c77c5b9ec157b2350b1" title=" " alt="" coords="110,107,184,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="51,76,101,98,99,102,49,81"/>
+<area shape="rect" id="Node000004" href="$pugixml_8cpp.html#aab8f818e90a34b18c1da140588eca88d" title=" " alt="" coords="245,81,297,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="183,74,230,84,229,89,182,79"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="184,110,229,100,230,106,185,115"/>
+</map>

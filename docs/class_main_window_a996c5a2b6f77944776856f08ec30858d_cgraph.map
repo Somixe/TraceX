@@ -1,0 +1,12 @@
+<map id="MainWindow::MainWindow" name="MainWindow::MainWindow">
+<area shape="rect" id="Node000001" title="Le constructeur initialise l&#39;interface centrale créés dans Qt Designer." alt="" coords="5,43,185,69"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="54,44,46,34,51,24,68,18,95,16,125,19,140,25,138,30,124,24,95,21,69,23,55,28,51,33,58,41"/>
+<area shape="rect" id="Node000002" href="$class_main_window.html#a57c21a65da3af801b6f26715def6c51c" title="Affiche les différents widgets customisés (QListWidget_custom, QTreeWidget_custom...." alt="" coords="260,5,425,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,43,244,36,245,41,185,48"/>
+<area shape="rect" id="Node000003" href="$class_main_window.html#a54a7c43c58bc489ccbaa512c8a0208c5" title="MainWindow::AnimationFonctions." alt="" coords="233,72,452,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,64,217,68,217,73,185,69"/>
+<area shape="rect" id="Node000004" href="$class_main_window.html#a0ae4213da7baa9551593ada844767300" title="MainWindow::Animation_afficherProchaineLettre." alt="" coords="500,31,662,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="442,69,484,63,485,68,443,74"/>
+<area shape="rect" id="Node000005" href="$class_main_window.html#a4bb2fcaa6d57f15d11d2d88dd2696e5e" title="fadeIn_Widget" alt="" coords="511,97,651,140"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="443,97,496,104,495,109,442,102"/>
+</map>

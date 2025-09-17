@@ -1,0 +1,5 @@
+<map id="XmlParserUtils::getCriteresCoches" name="XmlParserUtils::getCriteresCoches">
+<area shape="rect" id="Node000001" title="Récupère la liste des critères sélectionnés (cases cochées) dans les QListWidget." alt="" coords="259,5,440,48"/>
+<area shape="rect" id="Node000002" href="$class_main_window.html#a7fe434f98f5f25a3f11ded44092b8b4f" title="Met à jour dynamiquement le graphe en fonction des filtres cochés." alt="" coords="5,5,211,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,29,211,29,211,24,243,24"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MainWindow::ActualiserQSS" name="MainWindow::ActualiserQSS">
+<area shape="rect" id="Node000001" title="Force la réactualisation du style (QSS) appliqué à un widget sans avoir à redémarrer l&#39;application." alt="" coords="5,13,196,40"/>
+<area shape="rect" id="Node000002" href="$class_style.html#aa04c4c6cc01b4ff375a35f004340a68f" title="Retourne le style QSS par défaut du bouton &quot;analyse&quot;." alt="" coords="244,5,378,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,24,228,24,228,29,196,29"/>
+</map>

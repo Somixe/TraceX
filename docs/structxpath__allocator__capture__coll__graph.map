@@ -1,0 +1,8 @@
+<map id="xpath_allocator_capture" name="xpath_allocator_capture">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,165,229"/>
+<area shape="rect" id="Node000002" href="$structxpath__allocator.html" title=" " alt="" coords="30,96,140,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,138,88,202,82,202,82,138"/>
+<area shape="rect" id="Node000003" href="$structxpath__memory__block.html" title=" " alt="" coords="12,5,158,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,48,88,95,82,95,82,48"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="174,11,184,19,176,26,158,29,158,24,174,22,179,19,171,15"/>
+</map>

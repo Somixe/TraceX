@@ -1,0 +1,10 @@
+<map id="small_timeout" name="small_timeout">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,108,93"/>
+<area shape="rect" id="Node000002" href="$classpugi_1_1xml__attribute.html#af4cccce101e1dfda71c508184b691d07" title=" " alt="" coords="174,29,302,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,69,158,61,159,66,109,74"/>
+<area shape="rect" id="Node000004" href="$classpugi_1_1xml__node.html#a2d27d392a789976eb1aef9d49f72393e" title=" " alt="" coords="156,96,320,123"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="109,86,141,91,140,96,108,91"/>
+<area shape="rect" id="Node000003" href="$classpugi_1_1xml__attribute.html#ac18639df6493d250601566d1156c38d9" title=" " alt="" coords="368,29,496,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,48,353,48,353,53,302,53"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="395,29,393,19,400,10,413,5,432,3,453,5,466,11,463,16,452,10,432,8,414,10,403,15,399,21,400,28"/>
+</map>

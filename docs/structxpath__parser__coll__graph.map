@@ -1,0 +1,10 @@
+<map id="xpath_parser" name="xpath_parser">
+<area shape="rect" id="Node000001" title=" " alt="" coords="91,187,188,213"/>
+<area shape="rect" id="Node000002" href="$structxpath__allocator.html" title=" " alt="" coords="23,96,133,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,134,133,185,128,188,93,137"/>
+<area shape="rect" id="Node000003" href="$structxpath__memory__block.html" title=" " alt="" coords="5,5,151,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,48,81,95,75,95,75,48"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="167,11,177,19,169,26,151,29,151,24,167,22,172,19,164,15"/>
+<area shape="rect" id="Node000004" href="$classxpath__lexer.html" title=" " alt="" coords="156,96,245,123"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="185,137,150,188,146,185,181,134"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="File::isExcel" name="File::isExcel">
+<area shape="rect" id="Node000001" title="File::isExcel vérifie si un fichier est un fichier excel à partir de son extension." alt="" coords="1099,157,1192,184"/>
+<area shape="rect" id="Node000002" href="$class_srs.html#a7062fe877f944e7f5755293e62e379f1" title="Extrait les exigences depuis un fichier, selon le format du fichier (Word, Excel, CSV)." alt="" coords="899,5,1050,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1127,146,1095,99,1073,74,1049,53,1017,35,1020,30,1053,49,1077,71,1099,95,1131,143"/>
+<area shape="rect" id="Node000003" href="$class_sdd.html#abb5875b133d9cd311ecff3c0220d9f68" title="Récupère les identifiants de toutes les exigences." alt="" coords="684,56,826,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1111,151,1082,134,1050,120,993,103,933,90,826,76,827,71,934,85,994,98,1052,115,1084,129,1113,146"/>
+<area shape="rect" id="Node000008" href="$class_sss.html#ac2035363cff67a5a3eec31db9fd1928d" title="Récupère les identifiants des exigences filtrés par radicaux cochés." alt="" coords="684,107,826,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1084,155,1051,148,932,133,826,125,827,120,933,127,1051,143,1085,150"/>
+<area shape="rect" id="Node000009" href="$class_sdd.html#af8c3112863410531a30e621068405e48" title="Extrait les radicaux des exigences dans le fichier SDD (format Excel uniquement)." alt="" coords="912,157,1037,184"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1083,173,1037,173,1037,168,1083,168"/>
+<area shape="rect" id="Node000010" href="$class_srs.html#a35be965c2d73c99277268b8a0e0848b8" title="Extrait et ajoute les radicaux à la liste des filtres si nécessaire." alt="" coords="913,208,1036,235"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="1085,191,1023,210,1021,205,1083,186"/>
+<area shape="rect" id="Node000011" href="$class_sss.html#a9d02ddee75033e30a272c437dd1825a3" title="Extrait les radicaux à partir des identifiants d’exigence, et les enregistre." alt="" coords="912,259,1037,285"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1122,197,1090,224,1052,249,1026,261,1024,256,1050,244,1087,219,1118,193"/>
+<area shape="rect" id="Node000012" href="$class_srs.html#a6134af6ae8528f3a337e962820d4719d" title="Vérifie si l&#39;ID de l&#39;exigence correspond à l&#39;un des radicaux sélectionnés." alt="" coords="898,309,1051,336"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1133,199,1101,250,1078,277,1053,300,1032,311,1029,306,1049,295,1075,273,1096,247,1128,197"/>
+<area shape="rect" id="Node000004" href="$class_graphe.html#ac187f1b59961dc86821200ed2c50319d" title="Graphe::afficherGraphe : permet l&#39;affichage du noeud dans la scene." alt="" coords="457,107,612,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="680,89,596,109,595,103,678,84"/>
+<area shape="rect" id="Node000005" href="$class_main_window.html#aeb118e6002acdca1322448da92562cb9" title="Créer et configure une nouvelle fenêtre de graphe_affiche avec des boutons de zoom (+ et –)." alt="" coords="199,77,409,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="441,111,409,107,410,101,442,106"/>
+<area shape="rect" id="Node000007" href="$class_main_window.html#a7fe434f98f5f25a3f11ded44092b8b4f" title="Met à jour dynamiquement le graphe en fonction des filtres cochés." alt="" coords="201,128,406,171"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="442,134,407,139,407,134,441,129"/>
+<area shape="rect" id="Node000006" href="$class_main_window.html#a4849c50c272bd96d63f597e3ec011dab" title="Gère l&#39;action du bouton pour afficher un graphe." alt="" coords="5,69,151,112"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="183,93,151,93,151,88,183,88"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="668,123,613,123,613,117,668,117"/>
+<area shape="rect" id="Node000013" href="$class_srs.html#a5bf0f827307c722235894cd601100c5a" title="Récupère les identifiants des exigences qui correspondent aux critères sélectionnés." alt="" coords="660,229,850,272"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="916,307,821,275,823,270,918,301"/>
+<area shape="poly" id="edge14_Node000013_Node000004" title=" " alt="" coords="703,223,558,136,561,132,706,219"/>
+</map>

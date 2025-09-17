@@ -1,0 +1,5 @@
+<map id="File::isWord" name="File::isWord">
+<area shape="rect" id="Node000001" title="File::isWord vérifie si un fichier est un fichier word à partir de son extension." alt="" coords="204,5,294,32"/>
+<area shape="rect" id="Node000002" href="$class_srs.html#a7062fe877f944e7f5755293e62e379f1" title="Extrait les exigences depuis un fichier, selon le format du fichier (Word, Excel, CSV)." alt="" coords="5,5,156,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,21,156,21,156,16,188,16"/>
+</map>

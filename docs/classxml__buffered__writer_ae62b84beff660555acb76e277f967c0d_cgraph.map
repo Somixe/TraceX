@@ -1,0 +1,16 @@
+<map id="xml_buffered_writer::write_buffer" name="xml_buffered_writer::write_buffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,140,131"/>
+<area shape="rect" id="Node000002" href="$classxml__buffered__writer.html#a119f9db2f60e578e69ac81177e932fb3" title=" " alt="" coords="188,88,322,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,107,172,107,172,112,140,112"/>
+<area shape="rect" id="Node000003" href="$classxml__buffered__writer.html#a4789b8661f9ff4e5e4bb4226f7d45997" title=" " alt="" coords="390,29,525,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="322,87,375,72,376,77,323,93"/>
+<area shape="rect" id="Node000004" href="$pugixml_8cpp.html#a52cd33a8dc5b0412c3e817512ec98ef9" title=" " alt="" coords="400,96,515,123"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="322,107,385,107,385,112,322,112"/>
+<area shape="rect" id="Node000005" href="$pugixml_8cpp.html#a9ffc09483eb40cb8f51996b8d25cd099" title=" " alt="" coords="370,147,545,173"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="323,123,387,140,386,145,322,129"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="419,29,417,19,424,10,437,5,458,3,480,5,493,11,490,16,478,10,458,8,439,10,427,15,423,21,424,28"/>
+<area shape="rect" id="Node000006" href="$pugixml_8cpp.html#ac65295a489782c48a97a97e972ed61b0" title=" " alt="" coords="593,147,734,173"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="546,157,578,157,578,163,546,163"/>
+<area shape="rect" id="Node000007" href="$pugixml_8cpp.html#aaf0cb0440cad4fe27233f6482e324e15" title=" " alt="" coords="782,147,889,173"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="734,157,766,157,766,163,734,163"/>
+</map>

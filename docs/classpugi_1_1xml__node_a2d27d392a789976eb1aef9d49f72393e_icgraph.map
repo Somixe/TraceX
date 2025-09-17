@@ -1,0 +1,36 @@
+<map id="pugi::xml_node::attribute" name="pugi::xml_node::attribute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="706,253,871,280"/>
+<area shape="rect" id="Node000002" href="$load__error__handling_8cpp.html#ad21e7a54328496b4001bab1a2f621817" title=" " alt="" coords="496,5,580,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="776,240,759,198,734,147,700,96,680,73,657,53,620,34,580,25,581,19,621,29,660,48,683,69,704,93,739,144,764,196,781,238"/>
+<area shape="rect" id="Node000004" href="$class_xml_parser_utils.html#a84310a0d70629b320a2fb1432701ddf5" title="Extrait tous les styles utilisés dans un document Word à partir du fichier XML des styles." alt="" coords="213,107,370,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="774,241,757,205,731,165,698,126,657,97,618,82,577,74,535,72,493,74,413,89,348,109,346,103,412,83,492,69,535,66,578,69,620,77,660,92,702,122,736,162,761,203,779,238"/>
+<area shape="rect" id="Node000009" href="$class_srs.html#a7062fe877f944e7f5755293e62e379f1" title="Extrait les exigences depuis un fichier, selon le format du fichier (Word, Excel, CSV)." alt="" coords="463,107,613,133"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="765,243,719,193,690,168,657,148,613,132,615,127,660,143,693,164,723,190,769,239"/>
+<area shape="rect" id="Node000010" href="$class_xml_parser_utils.html#af6f278b0e65ff20d299d553afa78e372" title="Récupère les identifiants de style utilisés dans un document XML Word." alt="" coords="470,157,606,200"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="743,249,657,215,605,198,607,193,659,209,745,244"/>
+<area shape="rect" id="Node000011" href="$load__file_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="514,224,563,251"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="691,258,563,243,563,237,691,253"/>
+<area shape="rect" id="Node000012" href="$structallow__remote__predicate.html#a36d0cb632942d89246d8e5a8bde2b0b4" title=" " alt="" coords="459,275,617,317"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="691,281,618,289,617,284,690,275"/>
+<area shape="rect" id="Node000013" href="$classpugi_1_1xml__node.html#af8ca9132093404a89d25a81060c64293" title=" " alt="" coords="458,341,618,384"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="750,290,659,332,620,345,618,340,657,327,748,285"/>
+<area shape="rect" id="Node000014" href="$class_xml_parser_utils.html#a71148b4fd519fc96285e8df7ec614df6" title="Recherche et extrait les exigences dans un document SSS Word en fonction d&#39;un style utilisateur." alt="" coords="459,408,617,451"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="770,294,724,347,693,375,660,398,619,416,617,411,657,394,690,370,720,343,766,291"/>
+<area shape="rect" id="Node000015" href="$class_xml_parser_utils.html#a78a247d086c67ec5fcac9629020124fc" title=" " alt="" coords="418,475,658,501"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="780,295,762,334,737,380,703,426,660,465,638,476,636,472,657,460,699,423,732,377,758,332,775,293"/>
+<area shape="rect" id="Node000016" href="$traverse__predicate_8cpp.html#a9b29b9c7c21fe6ae5144582a3467eb01" title=" " alt="" coords="487,525,589,552"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="783,296,769,344,745,404,709,465,686,492,660,516,626,532,590,540,589,535,624,527,657,511,682,488,704,461,740,402,764,343,778,294"/>
+<area shape="rect" id="Node000003" href="$load__error__handling_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="267,5,316,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="480,21,316,21,316,16,480,16"/>
+<area shape="rect" id="Node000005" href="$class_xml_parser_utils.html#aeda3502da797422864017b91b82bdef7" title="Affiche les styles détectés dans les documents SSS, SRS et SDD dans une boite de dialogue." alt="" coords="5,23,165,65"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="222,103,138,68,140,63,224,98"/>
+<area shape="rect" id="Node000006" href="$class_sdd.html#a2b2c639324cd2d4a3ea8dd593f1c922c" title="extractStyles : extrait les styles utilisés dans le fichier word" alt="" coords="20,89,150,116"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="197,119,149,113,150,108,198,114"/>
+<area shape="rect" id="Node000007" href="$class_srs.html#a8ef1f15bc2d76e03c6fee9a2e0903fda" title="Extrait tous les styles associés à ce fichier Srs." alt="" coords="22,140,148,167"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="198,142,149,148,148,143,197,137"/>
+<area shape="rect" id="Node000008" href="$class_sss.html#a5325400e0f52c39bd9cba9ae488c4c85" title="Extrait tous les styles disponibles depuis le fichier SSS." alt="" coords="20,191,150,217"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="225,158,166,181,132,193,130,188,164,176,223,153"/>
+<area shape="poly" id="edge10_Node000010_Node000004" title=" " alt="" coords="455,164,370,147,371,142,456,159"/>
+<area shape="rect" id="Node000017" href="$traverse__predicate_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="267,525,316,552"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="472,541,317,541,317,536,472,536"/>
+</map>

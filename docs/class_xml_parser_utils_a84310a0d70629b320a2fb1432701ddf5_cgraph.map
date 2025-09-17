@@ -1,0 +1,42 @@
+<map id="XmlParserUtils::extract_all_styles" name="XmlParserUtils::extract_all_styles">
+<area shape="rect" id="Node000001" title="Extrait tous les styles utilisés dans un document Word à partir du fichier XML des styles." alt="" coords="5,244,163,286"/>
+<area shape="rect" id="Node000002" href="$classpugi_1_1xml__attribute.html#af4cccce101e1dfda71c508184b691d07" title=" " alt="" coords="236,42,364,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,242,140,175,172,136,209,102,225,91,228,95,212,106,176,140,144,178,100,245"/>
+<area shape="rect" id="Node000003" href="$classpugi_1_1xml__attribute.html#ac18639df6493d250601566d1156c38d9" title=" " alt="" coords="458,42,586,85"/>
+<area shape="poly" id="edge23_Node000001_Node000003" title=" " alt="" coords="87,242,99,195,122,135,138,104,158,75,181,49,209,28,240,14,272,6,305,3,339,4,404,16,460,34,459,39,403,21,339,9,306,8,273,11,241,19,212,33,185,53,162,78,142,107,127,137,104,197,92,244"/>
+<area shape="rect" id="Node000004" href="$classpugi_1_1xml__node.html#a2d27d392a789976eb1aef9d49f72393e" title=" " alt="" coords="440,113,604,140"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="99,242,144,191,175,165,210,145,263,128,319,118,374,114,424,114,424,119,374,119,319,123,264,133,212,150,178,170,148,195,103,245"/>
+<area shape="rect" id="Node000005" href="$classpugi_1_1xml__node.html#a4154ffb6451d4203b74bb56d3f3ecf50" title=" " alt="" coords="450,168,594,194"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="163,251,388,212,454,196,456,201,390,217,164,257"/>
+<area shape="rect" id="Node000007" href="$classpugi_1_1xml__node.html#a4f72c001fed61753fa76fd32d4e978af" title=" " alt="" coords="441,244,603,270"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="163,261,425,256,425,261,163,266"/>
+<area shape="rect" id="Node000010" href="$class_file_utils.html#af356104833af6eb8c70de4ba0f730d72" title="delete_extra : supprime les fichiers, dossiers inutiles créés" alt="" coords="226,378,374,405"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="111,285,157,321,212,357,240,370,237,375,209,362,154,326,108,289"/>
+<area shape="rect" id="Node000011" href="$class_file_utils.html#a79a5b5635d173ed94088ecea7e22f3b8" title="ExtractXmlFolder." alt="" coords="211,429,389,456"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="100,285,144,350,175,385,212,415,221,420,218,424,209,419,172,389,140,353,95,288"/>
+<area shape="rect" id="Node000014" href="$class_xml_parser_utils.html#af6f278b0e65ff20d299d553afa78e372" title="Récupère les identifiants de style utilisés dans un document XML Word." alt="" coords="232,160,368,202"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="140,241,228,206,230,211,142,246"/>
+<area shape="rect" id="Node000015" href="$classpugi_1_1xml__document.html#aefb4c986984462e3972cf332156dbf00" title=" " alt="" coords="453,320,591,362"/>
+<area shape="poly" id="edge21_Node000001_Node000015" title=" " alt="" coords="164,276,438,324,437,329,163,281"/>
+<area shape="rect" id="Node000017" href="$class_xml_parser_utils.html#adf926329b8880dce4cbab64c2b7c0b4b" title="Convertit une couleur en format RGB en son nom de couleur correspondant." alt="" coords="227,480,373,522"/>
+<area shape="poly" id="edge22_Node000001_Node000017" title=" " alt="" coords="96,286,112,324,137,372,171,422,212,466,217,469,214,473,209,470,166,425,133,375,107,326,91,288"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,61,442,61,442,66,364,66"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="480,42,479,32,486,23,500,18,522,16,546,18,560,24,558,29,544,23,522,21,501,23,489,28,484,34,486,41"/>
+<area shape="rect" id="Node000006" href="$classpugi_1_1xml__node.html#a4641476ddd4869da18f0738186b17368" title=" " alt="" coords="655,168,829,194"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="595,178,640,178,640,184,595,184"/>
+<area shape="rect" id="Node000008" href="$classpugi_1_1xml__node.html#aeff3362bf030a0df28ec2db9b84498f1" title=" " alt="" coords="668,218,816,245"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="603,245,652,239,652,245,604,250"/>
+<area shape="rect" id="Node000009" href="$classpugi_1_1xml__node.html#aafa1deeb5fe928d07cd7caebbf975527" title=" " alt="" coords="673,269,811,296"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="604,264,658,270,657,275,603,269"/>
+<area shape="rect" id="Node000012" href="$class_file_utils.html#a8b609fd70d9ed08bc7edad1087c9ec13" title="CreateCopy : Crée le path d&#39;une copie d&#39;un fichier." alt="" coords="448,458,596,485"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="390,451,433,457,433,463,389,457"/>
+<area shape="rect" id="Node000013" href="$class_file_utils.html#aa85d23111e76d16339d7f5c3603242cd" title="CreateZipFolder Crée le path du dossier zip du fichier copie." alt="" coords="437,408,607,434"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="389,431,421,428,422,433,390,436"/>
+<area shape="poly" id="edge20_Node000014_Node000003" title=" " alt="" coords="334,157,436,99,454,90,457,94,438,103,337,162"/>
+<area shape="poly" id="edge15_Node000014_Node000004" title=" " alt="" coords="367,162,450,141,451,147,368,167"/>
+<area shape="poly" id="edge16_Node000014_Node000005" title=" " alt="" coords="368,178,434,178,434,184,368,184"/>
+<area shape="poly" id="edge17_Node000014_Node000007" title=" " alt="" coords="366,201,467,236,466,241,364,206"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="331,201,439,280,478,308,475,313,435,285,328,205"/>
+<area shape="rect" id="Node000016" href="$classpugi_1_1xml__document.html#a56e84f1a61d9798b8095f633d2174ab5" title=" " alt="" coords="673,320,811,362"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="592,338,658,338,658,344,592,344"/>
+</map>

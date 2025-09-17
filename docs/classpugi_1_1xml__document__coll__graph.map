@@ -1,0 +1,11 @@
+<map id="pugi::xml_document" name="pugi::xml_document">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,316,149,343"/>
+<area shape="rect" id="Node000002" href="$classpugi_1_1xml__node.html" title=" " alt="" coords="25,240,135,267"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,282,83,316,77,316,77,282"/>
+<area shape="rect" id="Node000003" href="$structpugi_1_1xml__node__struct.html" title=" " alt="" coords="5,131,155,157"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,173,83,239,77,239,77,173"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="172,134,181,144,173,154,156,158,155,153,171,149,176,144,168,138"/>
+<area shape="rect" id="Node000004" href="$structpugi_1_1xml__attribute__struct.html" title=" " alt="" coords="16,5,144,48"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="83,64,83,130,77,130,77,64"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="161,17,171,27,163,36,145,39,144,34,160,31,166,27,158,21"/>
+</map>

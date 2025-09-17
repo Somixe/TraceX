@@ -1,0 +1,8 @@
+<map id="MainWindow::fadeIn_Widget" name="MainWindow::fadeIn_Widget">
+<area shape="rect" id="Node000001" title="fadeIn_Widget" alt="" coords="500,21,640,64"/>
+<area shape="rect" id="Node000002" href="$class_main_window.html#a54a7c43c58bc489ccbaa512c8a0208c5" title="MainWindow::AnimationFonctions." alt="" coords="233,29,452,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="484,45,453,45,453,40,484,40"/>
+<area shape="rect" id="Node000003" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title="Le constructeur initialise l&#39;interface centrale créés dans Qt Designer." alt="" coords="5,29,185,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="217,45,185,45,185,40,217,40"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="138,17,124,10,95,8,69,10,55,15,51,20,58,27,54,31,46,21,51,11,68,5,95,3,125,5,140,12"/>
+</map>

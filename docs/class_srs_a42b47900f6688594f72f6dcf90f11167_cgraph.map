@@ -1,0 +1,5 @@
+<map id="Srs::isNecessaireMatchesCriteres" name="Srs::isNecessaireMatchesCriteres">
+<area shape="rect" id="Node000001" title="Vérifie si la nécessité de l&#39;exigence correspond à l&#39;un des critères sélectionnés." alt="" coords="5,5,181,48"/>
+<area shape="rect" id="Node000002" href="$class_exigence_srs.html#a33687db613a7fe0e01e81064c452f342" title="getNecessaire" alt="" coords="229,13,416,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,24,213,24,213,29,181,29"/>
+</map>

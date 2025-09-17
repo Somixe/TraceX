@@ -1,0 +1,5 @@
+<map id="XmlParserUtils::remplirCriteres" name="XmlParserUtils::remplirCriteres">
+<area shape="rect" id="Node000001" title="Remplit dynamiquement un QFrame avec une liste de critères sous forme de cases à cocher (QCheckBox)." alt="" coords="5,13,208,40"/>
+<area shape="rect" id="Node000002" href="$class_style.html#aebc7aef78366f8f3124e318dec849568" title="Retourne le style CSS personnalisé pour les QCheckBox des critères de style." alt="" coords="256,5,413,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,24,240,24,240,29,208,29"/>
+</map>

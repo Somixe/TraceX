@@ -1,0 +1,9 @@
+<map id="Sdd::getRadicaux" name="Sdd::getRadicaux">
+<area shape="rect" id="Node000001" title="Extrait les radicaux des exigences dans le fichier SDD (format Excel uniquement)." alt="" coords="5,56,131,83"/>
+<area shape="rect" id="Node000002" href="$class_srs.html#a5382aad692ba4e12eaf10ad23777263c" title="Récupère la liste des filtres associés à la classe Srs." alt="" coords="183,5,286,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,53,173,35,175,40,115,58"/>
+<area shape="rect" id="Node000003" href="$class_file.html#a1cf6cc51e5830c3d5b21648c25b744ad" title=" " alt="" coords="179,56,291,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,67,163,67,163,72,131,72"/>
+<area shape="rect" id="Node000004" href="$class_file.html#a0ce5206db2513a52b369bed49d77353b" title="File::isExcel vérifie si un fichier est un fichier excel à partir de son extension." alt="" coords="188,107,282,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="115,81,175,99,173,104,114,86"/>
+</map>

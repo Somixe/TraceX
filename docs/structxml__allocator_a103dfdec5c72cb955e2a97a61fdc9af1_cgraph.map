@@ -1,0 +1,11 @@
+<map id="xml_allocator::allocate_object" name="xml_allocator::allocate_object">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,157,48"/>
+<area shape="rect" id="Node000002" href="$structxml__allocator.html#a02a8725611785568ceae7a0eea3eca76" title=" " alt="" coords="205,5,356,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,24,189,24,189,29,157,29"/>
+<area shape="rect" id="Node000003" href="$structxml__allocator.html#ae010e1cb3ad4e8f1235ad94ea4c542ee" title=" " alt="" coords="404,5,555,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="357,24,389,24,389,29,357,29"/>
+<area shape="rect" id="Node000004" href="$structxml__allocator.html#ad07a6aa6876c8c5a5536d409c01d88e5" title=" " alt="" coords="603,13,790,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="556,24,588,24,588,29,556,29"/>
+<area shape="rect" id="Node000005" href="$structxml__memory__page.html#a071bb9cc9aeccef1655c1336b16472a5" title=" " alt="" coords="838,13,1031,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="790,24,822,24,822,29,790,29"/>
+</map>

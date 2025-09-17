@@ -1,0 +1,12 @@
+<map id="xpath_string::from_heap" name="xpath_string::from_heap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,167,83"/>
+<area shape="rect" id="Node000002" href="$classxpath__string.html#abe89ae1270e25022aa8ccc332f5afbb3" title=" " alt="" coords="220,5,345,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,53,212,34,214,39,141,58"/>
+<area shape="rect" id="Node000004" href="$classxpath__string.html#a8469bd7512df66adabd3f5144c4b2ef7" title=" " alt="" coords="215,56,350,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="167,67,199,67,199,72,167,72"/>
+<area shape="rect" id="Node000005" href="$classxpath__string.html#a6c415f55011c6b816446d7454d1e9d2c" title=" " alt="" coords="216,107,348,149"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="134,81,202,101,201,106,132,86"/>
+<area shape="rect" id="Node000003" href="$pugixml_8cpp.html#a775f7b78d2f13c1b72d69b114599461d" title=" " alt="" coords="398,31,469,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="346,27,383,33,382,38,345,32"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="350,55,382,50,383,55,351,61"/>
+</map>

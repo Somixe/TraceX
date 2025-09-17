@@ -1,0 +1,13 @@
+<map id="simple_walker::for_each" name="simple_walker::for_each">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,121,168,148"/>
+<area shape="rect" id="Node000002" href="$classpugi_1_1xml__tree__walker.html#a3673bcaf2fbbcb01f4e23d5859f7f04e" title=" " alt="" coords="216,5,364,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,118,214,58,224,53,227,58,217,62,111,123"/>
+<area shape="rect" id="Node000003" href="$classpugi_1_1xml__node.html#ab3b6bd64f7b6077b2d5d333344ebd87a" title=" " alt="" coords="216,96,365,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,122,200,118,200,123,168,127"/>
+<area shape="rect" id="Node000004" href="$classpugi_1_1xml__node.html#aa018a135915ec8b2e3388feab2a78cfe" title=" " alt="" coords="219,147,362,173"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="168,142,204,147,204,152,168,147"/>
+<area shape="rect" id="Node000005" href="$classpugi_1_1xml__node.html#a971a8bc43a272ff40e64746fe622a9b3" title=" " alt="" coords="216,221,364,248"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="117,146,249,212,246,217,115,151"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="256,97,250,87,254,78,268,71,290,69,315,72,328,78,325,83,313,77,290,75,269,77,258,81,255,87,260,94"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="256,222,250,213,254,203,268,197,290,195,315,197,328,204,325,208,313,202,290,200,269,202,258,207,255,212,260,219"/>
+</map>

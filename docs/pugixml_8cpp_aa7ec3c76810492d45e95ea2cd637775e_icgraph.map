@@ -1,0 +1,9 @@
+<map id="endian_swap" name="endian_swap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="200,80,297,107"/>
+<area shape="rect" id="Node000002" href="$pugixml_8cpp.html#ad062509d1719b6e74470b6dbbccc32ce" title=" " alt="" coords="5,5,152,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,76,134,51,136,46,199,71"/>
+<area shape="rect" id="Node000003" href="$structutf16__decoder.html#a76791119a94c0105611212b8ee1ea86d" title=" " alt="" coords="12,72,145,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,96,146,96,146,91,184,91"/>
+<area shape="rect" id="Node000004" href="$structutf32__decoder.html#ac23eaccb8e66b323c3509b0c2307bc3f" title=" " alt="" coords="12,139,145,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="199,115,136,141,134,136,197,110"/>
+</map>

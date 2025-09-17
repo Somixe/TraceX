@@ -1,0 +1,9 @@
+<map id="Graphe::ajouterLien" name="Graphe::ajouterLien">
+<area shape="rect" id="Node000001" title="Graphe::ajouterLien : permet de créer un lien entre 2 noeuds." alt="" coords="5,31,140,57"/>
+<area shape="rect" id="Node000002" href="$class_graphe.html#abd5fe48289579292590b037e6ad2a821" title="Graphe::connectNodeAndLink : connecter un noeud à un lien pour synchroniser les coordonnées des noeud..." alt="" coords="188,31,383,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,41,172,41,172,47,140,47"/>
+<area shape="rect" id="Node000003" href="$class_node_item.html#ab8ed0c5e46ac893ab79998901f877a13" title=" " alt="" coords="431,5,614,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="383,31,415,27,416,33,384,36"/>
+<area shape="rect" id="Node000004" href="$class_link_item.html#a5d375d77cd8baa803e9c19d42dd9719f" title="Met à jour la position du lien graphique entre les deux items." alt="" coords="452,56,594,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="384,52,436,57,436,63,383,57"/>
+</map>

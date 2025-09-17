@@ -1,0 +1,6 @@
+<map id="MainWindow::Affiche_WidgetFichiers_custom" name="MainWindow::Affiche_WidgetFichiers_custom">
+<area shape="rect" id="Node000001" title="Affiche les différents widgets customisés (QListWidget_custom, QTreeWidget_custom...." alt="" coords="233,21,398,64"/>
+<area shape="rect" id="Node000002" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title="Le constructeur initialise l&#39;interface centrale créés dans Qt Designer." alt="" coords="5,29,185,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,45,185,45,185,40,217,40"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="133,16,120,10,95,8,72,10,59,15,56,20,62,27,58,30,51,21,56,11,71,5,95,3,121,5,135,12"/>
+</map>

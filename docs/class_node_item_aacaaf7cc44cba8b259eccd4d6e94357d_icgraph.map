@@ -1,0 +1,28 @@
+<map id="NodeItem::NodeItem" name="NodeItem::NodeItem">
+<area shape="rect" id="Node000001" title="Constructeur de la classe NodeItem." alt="" coords="1092,107,1235,133"/>
+<area shape="rect" id="Node000002" href="$class_node_item.html#af4f23b81240f64044d8de7532c98933b" title="addFils : ajouter un fils au vecteur des fils (filsNodes)" alt="" coords="884,56,1012,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1088,105,1008,86,1009,81,1090,100"/>
+<area shape="rect" id="Node000008" href="$class_node_item.html#a716ff071ccf24a8c023f91da9cbf943d" title="addParent : attribuer un noeud parent (parent) à un noeud" alt="" coords="876,5,1021,32"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1131,99,1090,72,1043,46,1012,35,1013,30,1045,42,1093,67,1134,95"/>
+<area shape="rect" id="Node000009" href="$class_node_item.html#a2e7eff71bd22d36adc0b67d01a970e5a" title="Réagit aux changements d&#39;état de l&#39;élément graphique." alt="" coords="870,157,1026,184"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1090,140,1009,159,1008,154,1088,135"/>
+<area shape="rect" id="Node000010" href="$class_node_item.html#a6f052bba0607bbb4385b4b588d3cd28e" title="Gère le déplacement du nœud avec la souris." alt="" coords="853,208,1044,235"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="1134,145,1093,173,1045,198,1013,210,1012,205,1043,194,1090,168,1131,141"/>
+<area shape="rect" id="Node000011" href="$class_node_item.html#a08b5b27355873ed975673a3a38cecdea" title=" " alt="" coords="457,107,615,133"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1077,123,616,123,616,117,1077,117"/>
+<area shape="rect" id="Node000003" href="$class_graphe.html#a30f59f4286f2daa120dcc657a816bad6" title="Graphe::ajouterNode permet d&#39;ajouter un noeud au graphe." alt="" coords="663,52,805,79"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="869,71,805,69,805,64,869,65"/>
+<area shape="rect" id="Node000004" href="$class_graphe.html#ac187f1b59961dc86821200ed2c50319d" title="Graphe::afficherGraphe : permet l&#39;affichage du noeud dans la scene." alt="" coords="458,52,614,79"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="648,68,614,68,614,63,648,63"/>
+<area shape="rect" id="Node000005" href="$class_main_window.html#aeb118e6002acdca1322448da92562cb9" title="Créer et configure une nouvelle fenêtre de graphe_affiche avec des boutons de zoom (+ et –)." alt="" coords="199,107,409,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="462,85,364,109,363,103,461,80"/>
+<area shape="rect" id="Node000007" href="$class_main_window.html#a7fe434f98f5f25a3f11ded44092b8b4f" title="Met à jour dynamiquement le graphe en fonction des filtres cochés." alt="" coords="201,40,406,83"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="443,66,407,66,407,60,443,61"/>
+<area shape="rect" id="Node000006" href="$class_main_window.html#a4849c50c272bd96d63f597e3ec011dab" title="Gère l&#39;action du bouton pour afficher un graphe." alt="" coords="5,99,151,141"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="183,123,151,123,151,117,183,117"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="870,38,799,54,798,49,869,33"/>
+<area shape="poly" id="edge13_Node000011_Node000005" title=" " alt="" coords="441,123,410,123,410,117,441,117"/>
+<area shape="poly" id="edge14_Node000011_Node000007" title=" " alt="" coords="465,105,390,86,392,81,466,100"/>
+<area shape="rect" id="Node000012" href="$class_node_item.html#a2f02cfa902284d75ea7181f92e74d421" title="Gère le clic souris sur le nœud graphique." alt="" coords="207,157,400,184"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="457,140,369,159,368,154,456,135"/>
+</map>

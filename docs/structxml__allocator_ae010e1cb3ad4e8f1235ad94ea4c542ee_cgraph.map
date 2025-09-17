@@ -1,0 +1,7 @@
+<map id="xml_allocator::allocate_memory_oob" name="xml_allocator::allocate_memory_oob">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,157,48"/>
+<area shape="rect" id="Node000002" href="$structxml__allocator.html#ad07a6aa6876c8c5a5536d409c01d88e5" title=" " alt="" coords="205,13,391,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,24,189,24,189,29,157,29"/>
+<area shape="rect" id="Node000003" href="$structxml__memory__page.html#a071bb9cc9aeccef1655c1336b16472a5" title=" " alt="" coords="439,13,632,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="391,24,423,24,423,29,391,29"/>
+</map>

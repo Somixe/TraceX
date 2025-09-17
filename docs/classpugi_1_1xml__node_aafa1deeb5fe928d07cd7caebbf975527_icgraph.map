@@ -1,0 +1,41 @@
+<map id="pugi::xml_node::end" name="pugi::xml_node::end">
+<area shape="rect" id="Node000001" title=" " alt="" coords="973,257,1111,284"/>
+<area shape="rect" id="Node000002" href="$classpugi_1_1xml__node.html#a4f72c001fed61753fa76fd32d4e978af" title=" " alt="" coords="762,232,925,259"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="957,262,925,258,926,253,957,257"/>
+<area shape="rect" id="Node000018" href="$traverse__iter_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="819,283,868,309"/>
+<area shape="poly" id="edge21_Node000001_Node000018" title=" " alt="" coords="957,284,869,296,868,290,957,279"/>
+<area shape="rect" id="Node000003" href="$class_xml_parser_utils.html#a1895bef2b54f8345e7eb5698e970724a" title="Cette fonction analyse un paragraphe XML pour extraire et filtrer des informations relatives aux exig..." alt="" coords="530,140,685,183"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="789,229,669,186,671,181,791,224"/>
+<area shape="rect" id="Node000004" href="$class_srs.html#a7062fe877f944e7f5755293e62e379f1" title="Extrait les exigences depuis un fichier, selon le format du fichier (Word, Excel, CSV)." alt="" coords="258,89,408,116"/>
+<area shape="poly" id="edge15_Node000002_Node000004" title=" " alt="" coords="821,221,776,173,746,149,713,130,675,117,635,106,554,95,476,93,409,96,408,91,476,87,554,90,636,101,677,111,715,126,749,144,779,169,825,218"/>
+<area shape="rect" id="Node000005" href="$class_xml_parser_utils.html#a78a247d086c67ec5fcac9629020124fc" title=" " alt="" coords="213,173,453,200"/>
+<area shape="poly" id="edge20_Node000002_Node000005" title=" " alt="" coords="746,237,453,203,454,198,747,232"/>
+<area shape="rect" id="Node000006" href="$class_xml_parser_utils.html#a84310a0d70629b320a2fb1432701ddf5" title="Extrait tous les styles utilisés dans un document Word à partir du fichier XML des styles." alt="" coords="254,279,412,321"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="747,258,412,294,411,289,746,253"/>
+<area shape="rect" id="Node000011" href="$class_xml_parser_utils.html#a0744b0c517b41333d40cbed3ce4a3eff" title="Extrait les exigences d&#39;un document Excel de type SSS." alt="" coords="501,23,714,65"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="825,220,780,154,749,118,713,86,681,68,683,63,716,82,752,114,784,150,830,217"/>
+<area shape="rect" id="Node000015" href="$class_xml_parser_utils.html#af6f278b0e65ff20d299d553afa78e372" title="Récupère les identifiants de style utilisés dans un document XML Word." alt="" coords="540,308,675,351"/>
+<area shape="poly" id="edge16_Node000002_Node000015" title=" " alt="" coords="783,267,763,273,715,292,668,310,666,305,713,287,761,268,781,261"/>
+<area shape="rect" id="Node000016" href="$traverse__rangefor_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="583,375,632,401"/>
+<area shape="poly" id="edge18_Node000002_Node000016" title=" " alt="" coords="769,269,764,273,747,295,741,318,735,342,716,365,696,377,674,384,633,390,632,385,673,379,694,372,713,361,730,339,736,316,743,292,760,269,766,264"/>
+<area shape="rect" id="Node000017" href="$class_xml_parser_utils.html#a71148b4fd519fc96285e8df7ec614df6" title="Recherche et extrait les exigences dans un document SSS Word en fonction d&#39;un style utilisateur." alt="" coords="528,425,687,468"/>
+<area shape="poly" id="edge19_Node000002_Node000017" title=" " alt="" coords="768,269,764,272,751,290,744,307,741,342,738,378,730,397,716,415,689,433,686,429,713,411,726,394,733,377,736,342,739,306,746,287,760,269,764,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="514,144,398,119,399,114,515,139"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="514,173,454,178,453,173,514,167"/>
+<area shape="rect" id="Node000007" href="$class_xml_parser_utils.html#aeda3502da797422864017b91b82bdef7" title="Affiche les styles détectés dans les documents SSS, SRS et SDD dans une boite de dialogue." alt="" coords="5,308,165,351"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="239,314,166,323,165,317,238,308"/>
+<area shape="rect" id="Node000008" href="$class_sdd.html#a2b2c639324cd2d4a3ea8dd593f1c922c" title="extractStyles : extrait les styles utilisés dans le fichier word" alt="" coords="20,375,150,401"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="262,330,166,365,132,377,130,371,164,360,260,325"/>
+<area shape="rect" id="Node000009" href="$class_srs.html#a8ef1f15bc2d76e03c6fee9a2e0903fda" title="Extrait tous les styles associés à ce fichier Srs." alt="" coords="22,207,148,233"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="250,276,164,248,129,236,130,231,165,243,251,271"/>
+<area shape="rect" id="Node000010" href="$class_sss.html#a5325400e0f52c39bd9cba9ae488c4c85" title="Extrait tous les styles disponibles depuis le fichier SSS." alt="" coords="20,257,150,284"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="238,292,150,281,150,276,239,286"/>
+<area shape="poly" id="edge14_Node000011_Node000004" title=" " alt="" coords="491,72,454,80,400,91,399,86,452,75,490,67"/>
+<area shape="rect" id="Node000012" href="$class_xml_parser_utils.html#a5624853f74d656a06dd90364c5e4817f" title="Extrait les exigences d’un fichier SSS, quel que soit son format (.docx, .xlsx, .csv)." alt="" coords="254,23,412,65"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="486,47,412,47,412,41,486,41"/>
+<area shape="rect" id="Node000013" href="$class_sdd.html#a425fea7c65d47550b415efba919d1c4d" title="extractExigences : extraire les exigences d&#39;un fichier Sdd" alt="" coords="8,5,162,32"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="238,37,162,29,162,24,239,32"/>
+<area shape="rect" id="Node000014" href="$class_sss.html#aa54dde258152ac170fbab4c407502dcc" title="Extrait les exigences depuis le fichier SSS en fonction du style défini." alt="" coords="8,56,162,83"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="239,56,162,64,162,59,238,51"/>
+<area shape="poly" id="edge17_Node000015_Node000006" title=" " alt="" coords="524,323,412,311,412,306,525,318"/>
+</map>

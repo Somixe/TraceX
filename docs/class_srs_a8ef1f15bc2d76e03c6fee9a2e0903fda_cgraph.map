@@ -1,0 +1,46 @@
+<map id="Srs::extractStyles" name="Srs::extractStyles">
+<area shape="rect" id="Node000001" title="Extrait tous les styles associés à ce fichier Srs." alt="" coords="5,281,132,308"/>
+<area shape="rect" id="Node000002" href="$class_xml_parser_utils.html#a84310a0d70629b320a2fb1432701ddf5" title="Extrait tous les styles utilisés dans un document Word à partir du fichier XML des styles." alt="" coords="180,244,337,286"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,282,164,277,165,282,133,287"/>
+<area shape="rect" id="Node000019" href="$class_file.html#ac901d251e9e6f5853bb1aa64c3cb2769" title="File::getPath." alt="" coords="211,310,306,337"/>
+<area shape="poly" id="edge25_Node000001_Node000019" title=" " alt="" coords="133,302,196,311,195,317,132,307"/>
+<area shape="rect" id="Node000003" href="$classpugi_1_1xml__attribute.html#af4cccce101e1dfda71c508184b691d07" title=" " alt="" coords="410,42,538,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="269,242,314,175,347,136,383,102,399,91,402,95,387,106,350,140,319,178,274,245"/>
+<area shape="rect" id="Node000004" href="$classpugi_1_1xml__attribute.html#ac18639df6493d250601566d1156c38d9" title=" " alt="" coords="632,42,761,85"/>
+<area shape="poly" id="edge24_Node000002_Node000004" title=" " alt="" coords="261,242,273,195,296,135,312,104,332,75,356,49,384,28,414,14,446,6,480,3,514,4,578,16,635,34,633,39,577,21,513,9,480,8,447,11,416,19,386,33,359,53,336,78,317,107,301,137,278,197,266,244"/>
+<area shape="rect" id="Node000005" href="$classpugi_1_1xml__node.html#a2d27d392a789976eb1aef9d49f72393e" title=" " alt="" coords="614,113,779,140"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="273,242,318,191,349,165,384,145,437,128,493,118,548,114,599,114,599,119,548,119,494,123,438,133,386,150,352,170,322,195,277,245"/>
+<area shape="rect" id="Node000006" href="$classpugi_1_1xml__node.html#a4154ffb6451d4203b74bb56d3f3ecf50" title=" " alt="" coords="624,168,769,194"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="337,251,563,212,629,196,630,201,564,217,338,257"/>
+<area shape="rect" id="Node000008" href="$classpugi_1_1xml__node.html#a4f72c001fed61753fa76fd32d4e978af" title=" " alt="" coords="615,244,778,270"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="337,261,600,256,600,261,338,266"/>
+<area shape="rect" id="Node000011" href="$class_file_utils.html#af356104833af6eb8c70de4ba0f730d72" title="delete_extra : supprime les fichiers, dossiers inutiles créés" alt="" coords="400,378,548,405"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="321,285,339,296,354,312,363,328,372,343,387,358,408,370,405,374,383,362,367,346,358,331,350,316,335,300,318,289"/>
+<area shape="rect" id="Node000012" href="$class_file_utils.html#a79a5b5635d173ed94088ecea7e22f3b8" title="ExtractXmlFolder." alt="" coords="385,429,563,456"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="324,285,339,297,351,312,358,328,363,358,368,387,375,401,387,415,391,419,388,423,383,419,370,404,363,389,357,359,353,329,346,315,335,300,321,289"/>
+<area shape="rect" id="Node000015" href="$class_xml_parser_utils.html#af6f278b0e65ff20d299d553afa78e372" title="Récupère les identifiants de style utilisés dans un document XML Word." alt="" coords="406,160,542,202"/>
+<area shape="poly" id="edge15_Node000002_Node000015" title=" " alt="" coords="314,241,402,206,404,211,316,246"/>
+<area shape="rect" id="Node000016" href="$classpugi_1_1xml__document.html#aefb4c986984462e3972cf332156dbf00" title=" " alt="" coords="627,320,766,362"/>
+<area shape="poly" id="edge22_Node000002_Node000016" title=" " alt="" coords="338,276,613,324,612,329,337,281"/>
+<area shape="rect" id="Node000018" href="$class_xml_parser_utils.html#adf926329b8880dce4cbab64c2b7c0b4b" title="Convertit une couleur en format RGB en son nom de couleur correspondant." alt="" coords="401,480,547,522"/>
+<area shape="poly" id="edge23_Node000002_Node000018" title=" " alt="" coords="325,285,339,297,354,319,361,341,363,383,365,425,372,445,387,466,390,469,387,473,383,469,368,448,360,426,358,384,356,342,349,321,335,300,322,289"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="538,61,617,61,617,66,538,66"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="655,42,653,32,660,23,675,18,697,16,720,18,734,24,732,29,719,23,696,21,676,23,663,28,658,34,660,41"/>
+<area shape="rect" id="Node000007" href="$classpugi_1_1xml__node.html#a4641476ddd4869da18f0738186b17368" title=" " alt="" coords="830,168,1003,194"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="769,178,814,178,814,184,769,184"/>
+<area shape="rect" id="Node000009" href="$classpugi_1_1xml__node.html#aeff3362bf030a0df28ec2db9b84498f1" title=" " alt="" coords="842,218,990,245"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="778,245,826,239,827,245,778,250"/>
+<area shape="rect" id="Node000010" href="$classpugi_1_1xml__node.html#aafa1deeb5fe928d07cd7caebbf975527" title=" " alt="" coords="847,269,986,296"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="778,264,832,270,831,275,778,269"/>
+<area shape="rect" id="Node000013" href="$class_file_utils.html#a8b609fd70d9ed08bc7edad1087c9ec13" title="CreateCopy : Crée le path d&#39;une copie d&#39;un fichier." alt="" coords="623,458,770,485"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="564,451,608,457,607,463,563,457"/>
+<area shape="rect" id="Node000014" href="$class_file_utils.html#aa85d23111e76d16339d7f5c3603242cd" title="CreateZipFolder Crée le path du dossier zip du fichier copie." alt="" coords="611,408,782,434"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="563,431,596,428,596,433,564,436"/>
+<area shape="poly" id="edge21_Node000015_Node000004" title=" " alt="" coords="509,157,610,99,628,90,631,94,613,103,511,162"/>
+<area shape="poly" id="edge16_Node000015_Node000005" title=" " alt="" coords="541,162,624,141,625,147,543,167"/>
+<area shape="poly" id="edge17_Node000015_Node000006" title=" " alt="" coords="542,178,609,178,609,184,542,184"/>
+<area shape="poly" id="edge18_Node000015_Node000008" title=" " alt="" coords="540,201,642,236,640,241,538,206"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="506,201,613,280,653,308,650,313,610,285,502,205"/>
+<area shape="rect" id="Node000017" href="$classpugi_1_1xml__document.html#a56e84f1a61d9798b8095f633d2174ab5" title=" " alt="" coords="847,320,986,362"/>
+<area shape="poly" id="edge20_Node000016_Node000017" title=" " alt="" coords="766,338,832,338,832,344,766,344"/>
+</map>

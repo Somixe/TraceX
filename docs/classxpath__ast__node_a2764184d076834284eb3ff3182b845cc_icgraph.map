@@ -1,0 +1,31 @@
+<map id="xpath_ast_node::set_next" name="xpath_ast_node::set_next">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1579,166,1750,193"/>
+<area shape="rect" id="Node000002" href="$structxpath__parser.html#a49cbc6141508ace22ab4b8bd8ddf965a" title=" " alt="" coords="1390,29,1531,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1628,160,1494,74,1497,70,1631,155"/>
+<area shape="rect" id="Node000008" href="$structxpath__parser.html#a0b226e2905970c868ab6a80d76da3a95" title=" " alt="" coords="392,245,560,272"/>
+<area shape="poly" id="edge18_Node000001_Node000008" title=" " alt="" coords="1637,205,1576,250,1489,302,1439,325,1386,344,1331,357,1275,362,859,362,808,360,756,352,656,329,570,300,507,275,509,270,572,295,658,324,757,347,809,354,860,357,1275,357,1330,352,1384,339,1437,320,1486,297,1573,246,1634,201"/>
+<area shape="rect" id="Node000003" href="$structxpath__parser.html#a61a425d990a56d5db8cd14405835a5b6" title=" " alt="" coords="1205,29,1342,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1374,53,1342,53,1342,48,1374,48"/>
+<area shape="rect" id="Node000004" href="$structxpath__parser.html#ab5275305ebaac95fd68a3186b737aaa7" title=" " alt="" coords="977,80,1157,122"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1191,73,1157,82,1156,76,1190,68"/>
+<area shape="rect" id="Node000005" href="$structxpath__parser.html#a7738e256011ca842dc2a0beba78562ed" title=" " alt="" coords="608,33,745,76"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="961,99,745,72,746,67,962,94"/>
+<area shape="rect" id="Node000011" href="$structxpath__parser.html#adcd54e9b508acfe1f040ee7a54b88f2a" title=" " alt="" coords="793,128,929,170"/>
+<area shape="poly" id="edge15_Node000004_Node000011" title=" " alt="" coords="962,128,930,136,929,130,961,123"/>
+<area shape="poly" id="edge9_Node000005_Node000002" title=" " alt="" coords="760,28,792,22,953,7,1109,3,1245,6,1342,14,1394,26,1393,31,1341,20,1245,11,1109,8,953,13,793,28,760,33"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="760,44,793,42,1019,40,1205,45,1205,50,1019,45,793,48,761,49"/>
+<area shape="poly" id="edge8_Node000005_Node000004" title=" " alt="" coords="761,54,977,80,977,85,760,59"/>
+<area shape="rect" id="Node000006" href="$structxpath__parser.html#aa3fe0e7d23131b3943d8248646ecd362" title=" " alt="" coords="408,41,544,68"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="593,57,545,57,545,52,593,52"/>
+<area shape="poly" id="edge10_Node000005_Node000008" title=" " alt="" coords="646,89,493,246,489,243,642,85"/>
+<area shape="rect" id="Node000007" href="$structxpath__parser.html#aad773be8b591966eb535018fcc2b6a66" title=" " alt="" coords="199,41,335,68"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="393,57,336,57,336,52,393,52"/>
+<area shape="rect" id="Node000009" href="$structxpath__parser.html#aebea559423376001c89b19216dfc3012" title=" " alt="" coords="190,245,344,288"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="376,265,345,266,344,261,376,259"/>
+<area shape="poly" id="edge14_Node000009_Node000004" title=" " alt="" coords="360,279,478,290,549,293,624,291,702,285,780,273,856,253,928,224,964,202,998,174,1047,121,1051,125,1001,178,968,206,930,229,857,258,781,278,702,290,624,297,549,298,478,296,359,284"/>
+<area shape="rect" id="Node000010" href="$structxpath__parser.html#af14e396ddb7817998ec221eec6b781ab" title=" " alt="" coords="5,216,142,258"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="174,255,142,250,142,245,174,250"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="157,225,305,212,475,205,678,205,805,205,860,198,928,180,987,152,1036,120,1039,125,990,157,930,185,861,204,806,211,678,210,475,210,305,217,158,230"/>
+<area shape="poly" id="edge16_Node000011_Node000005" title=" " alt="" coords="803,122,719,78,721,74,805,118"/>
+<area shape="poly" id="edge17_Node000011_Node000011" title=" " alt="" coords="890,114,879,108,861,106,844,108,833,113,829,119,831,127,825,127,824,118,830,109,842,103,861,101,881,103,893,110"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="convert_number_to_string" name="convert_number_to_string">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,131,177,157"/>
+<area shape="rect" id="Node000002" href="$structxpath__allocator.html#a6c13fefbd7038d78b336987f396c8415" title=" " alt="" coords="240,5,402,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,128,155,86,188,62,223,42,239,35,241,40,226,46,191,67,158,90,108,132"/>
+<area shape="rect" id="Node000003" href="$pugixml_8cpp.html#afa8cc5242fdd3e8a83da9dcd0c7f1331" title=" " alt="" coords="225,56,417,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,127,230,101,231,106,141,133"/>
+<area shape="rect" id="Node000005" href="$pugixml_8cpp.html#a058818762d29b1988273d08529984e3f" title=" " alt="" coords="235,123,406,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="177,141,220,141,220,147,177,147"/>
+<area shape="rect" id="Node000006" href="$classxpath__string.html#a6dce01c6b3a949c3c4c886e6be44931e" title=" " alt="" coords="258,189,384,232"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="141,155,243,186,242,191,139,161"/>
+<area shape="rect" id="Node000008" href="$classxpath__string.html#a37e13c2dc384cac842cee3870e9e9e23" title=" " alt="" coords="254,256,388,299"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="109,156,159,197,226,242,241,249,239,254,223,246,156,202,105,160"/>
+<area shape="rect" id="Node000004" href="$pugixml_8cpp.html#a34c3c1c79170be766df89acaf5223d95" title=" " alt="" coords="478,64,585,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="417,75,462,75,462,80,417,80"/>
+<area shape="rect" id="Node000007" href="$classxpath__string.html#a6c415f55011c6b816446d7454d1e9d2c" title=" " alt="" coords="465,223,597,265"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="385,218,450,229,450,234,384,223"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="387,264,449,254,450,259,388,269"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="xpath_stack_data" name="xpath_stack_data">
+<area shape="rect" id="Node000001" title=" " alt="" coords="57,299,182,325"/>
+<area shape="rect" id="Node000002" href="$structxpath__memory__block.html" title=" " alt="" coords="5,5,151,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,48,85,122,91,178,118,297,113,299,85,179,79,123,76,48"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="167,11,177,19,169,26,151,29,151,24,167,22,172,19,164,15"/>
+<area shape="rect" id="Node000003" href="$structxpath__allocator.html" title=" " alt="" coords="94,96,203,123"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="99,42,141,94,136,97,95,46"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="146,138,134,203,123,299,118,298,129,202,140,137"/>
+<area shape="rect" id="Node000004" href="$structxpath__stack.html" title=" " alt="" coords="180,205,272,232"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="169,134,219,203,215,206,164,137"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="202,244,136,300,132,296,198,240"/>
+</map>

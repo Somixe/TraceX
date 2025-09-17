@@ -1,0 +1,5 @@
+<map id="MainWindow::ActualiserQSS" name="MainWindow::ActualiserQSS">
+<area shape="rect" id="Node000001" title="Force la réactualisation du style (QSS) appliqué à un widget sans avoir à redémarrer l&#39;application." alt="" coords="222,13,412,40"/>
+<area shape="rect" id="Node000002" href="$class_main_window.html#a7a50eed004a23b8359083217ac44db27" title="Réinitialise la couleur de tous les boutons de navigation." alt="" coords="5,5,174,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,29,174,29,174,24,206,24"/>
+</map>

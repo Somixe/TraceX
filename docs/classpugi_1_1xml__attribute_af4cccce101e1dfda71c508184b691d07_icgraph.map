@@ -1,0 +1,20 @@
+<map id="pugi::xml_attribute::as_int" name="pugi::xml_attribute::as_int">
+<area shape="rect" id="Node000001" title=" " alt="" coords="418,195,546,237"/>
+<area shape="rect" id="Node000002" href="$class_xml_parser_utils.html#a84310a0d70629b320a2fb1432701ddf5" title="Extrait tous les styles utilisés dans un document Word à partir du fichier XML des styles." alt="" coords="213,115,370,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="415,191,343,160,345,155,417,186"/>
+<area shape="rect" id="Node000007" href="$traverse__predicate_8cpp.html#a9b29b9c7c21fe6ae5144582a3467eb01" title=" " alt="" coords="240,203,342,229"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="402,219,343,219,343,213,402,213"/>
+<area shape="rect" id="Node000009" href="$classpugi_1_1xml__attribute.html#a156d917a92815c7b593bd5ef19f6d5fb" title=" " alt="" coords="227,277,356,320"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="418,247,343,279,341,274,416,242"/>
+<area shape="rect" id="Node000003" href="$class_xml_parser_utils.html#aeda3502da797422864017b91b82bdef7" title="Affiche les styles détectés dans les documents SSS, SRS et SDD dans une boite de dialogue." alt="" coords="5,5,165,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="243,108,163,62,140,51,142,46,166,58,246,104"/>
+<area shape="rect" id="Node000004" href="$class_sdd.html#a2b2c639324cd2d4a3ea8dd593f1c922c" title="extractStyles : extrait les styles utilisés dans le fichier word" alt="" coords="20,72,150,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="197,116,142,102,143,97,199,111"/>
+<area shape="rect" id="Node000005" href="$class_srs.html#a8ef1f15bc2d76e03c6fee9a2e0903fda" title="Extrait tous les styles associés à ce fichier Srs." alt="" coords="22,123,148,149"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="197,139,149,139,149,133,197,133"/>
+<area shape="rect" id="Node000006" href="$class_sss.html#a5325400e0f52c39bd9cba9ae488c4c85" title="Extrait tous les styles disponibles depuis le fichier SSS." alt="" coords="20,173,150,200"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="199,161,143,175,142,170,197,156"/>
+<area shape="rect" id="Node000008" href="$traverse__predicate_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="60,224,110,251"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="225,226,111,237,110,232,224,220"/>
+<area shape="poly" id="edge9_Node000009_Node000009" title=" " alt="" coords="322,264,310,258,291,256,274,258,263,263,258,269,260,276,255,277,253,267,259,258,272,253,291,251,312,253,324,259"/>
+</map>

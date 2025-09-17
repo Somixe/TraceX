@@ -1,0 +1,16 @@
+<map id="XmlParserUtils::Check_filtres" name="XmlParserUtils::Check_filtres">
+<area shape="rect" id="Node000001" title="Cette fonction analyse un paragraphe XML pour extraire et filtrer des informations relatives aux exig..." alt="" coords="5,56,161,99"/>
+<area shape="rect" id="Node000002" href="$classpugi_1_1xml__node.html#a4154ffb6451d4203b74bb56d3f3ecf50" title=" " alt="" coords="218,5,362,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,53,225,34,226,39,161,58"/>
+<area shape="rect" id="Node000004" href="$classpugi_1_1xml__node.html#a4f72c001fed61753fa76fd32d4e978af" title=" " alt="" coords="209,123,371,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="161,97,226,115,225,121,160,102"/>
+<area shape="rect" id="Node000007" href="$classpugi_1_1xml__node.html#ae157b9c76f71e7c417a2dda8da489bab" title=" " alt="" coords="219,56,361,99"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="161,75,203,75,203,80,161,80"/>
+<area shape="rect" id="Node000003" href="$classpugi_1_1xml__node.html#a4641476ddd4869da18f0738186b17368" title=" " alt="" coords="419,24,592,51"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="362,22,404,26,403,31,362,28"/>
+<area shape="rect" id="Node000005" href="$classpugi_1_1xml__node.html#aeff3362bf030a0df28ec2db9b84498f1" title=" " alt="" coords="432,93,580,120"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="371,122,415,116,416,121,372,128"/>
+<area shape="rect" id="Node000006" href="$classpugi_1_1xml__node.html#aafa1deeb5fe928d07cd7caebbf975527" title=" " alt="" coords="436,144,575,171"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="371,141,422,146,421,152,371,147"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="361,62,415,51,416,57,362,67"/>
+</map>

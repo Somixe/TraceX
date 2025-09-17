@@ -1,0 +1,11 @@
+<map id="tests/tests/tst_stylefile.cpp" name="tests/tests/tst_stylefile.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="14,5,193,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,155,66,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,34,64,55,45,81,37,110,35,139,30,139,31,109,40,79,60,51,83,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="127,155,216,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,30,147,51,167,79,176,109,177,139,172,139,170,110,162,81,143,55,120,34"/>
+<area shape="rect" id="Node000004" href="$tst__stylefile_8h.html" title=" " alt="" coords="54,80,153,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="106,33,106,64,101,64,101,33"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="94,109,60,145,56,141,90,105"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="117,105,151,141,147,145,113,109"/>
+</map>

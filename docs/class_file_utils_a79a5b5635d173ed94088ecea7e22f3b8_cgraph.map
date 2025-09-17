@@ -1,0 +1,7 @@
+<map id="FileUtils::ExtractXmlFolder" name="FileUtils::ExtractXmlFolder">
+<area shape="rect" id="Node000001" title="ExtractXmlFolder." alt="" coords="5,31,184,57"/>
+<area shape="rect" id="Node000002" href="$class_file_utils.html#a8b609fd70d9ed08bc7edad1087c9ec13" title="CreateCopy : Crée le path d&#39;une copie d&#39;un fichier." alt="" coords="243,5,390,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,31,227,26,228,31,184,36"/>
+<area shape="rect" id="Node000003" href="$class_file_utils.html#aa85d23111e76d16339d7f5c3603242cd" title="CreateZipFolder Crée le path du dossier zip du fichier copie." alt="" coords="232,56,402,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,52,217,55,216,61,184,57"/>
+</map>

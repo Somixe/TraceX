@@ -1,0 +1,9 @@
+<map id="xpath_string::append" name="xpath_string::append">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,148,57"/>
+<area shape="rect" id="Node000002" href="$classxpath__string.html#a8469bd7512df66adabd3f5144c4b2ef7" title=" " alt="" coords="215,5,350,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,33,199,26,199,32,149,38"/>
+<area shape="rect" id="Node000004" href="$structxpath__allocator.html#a5d3ba1b01ba87b2002b348674e9d50b6" title=" " alt="" coords="196,56,369,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,50,180,54,180,59,148,55"/>
+<area shape="rect" id="Node000003" href="$pugixml_8cpp.html#a775f7b78d2f13c1b72d69b114599461d" title=" " alt="" coords="417,5,488,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="350,16,401,16,401,21,350,21"/>
+</map>

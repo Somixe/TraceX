@@ -1,0 +1,31 @@
+<map id="build/Desktop_Qt_6_5_3_MinGW_64_bit&#45;Debug/tracabilite_autogen/include/ui_mainwindow.h" name="build/Desktop_Qt_6_5_3_MinGW_64_bit&#45;Debug/tracabilite_autogen/include/ui_mainwindow.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1046,5,1231,80"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,128,123,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1046,52,655,79,400,101,139,130,138,125,400,96,655,74,1046,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="146,128,240,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1047,52,703,79,482,101,256,130,255,125,481,96,702,73,1046,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="265,128,426,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1047,57,442,130,441,125,1046,52"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="450,128,584,155"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1046,61,600,130,599,125,1046,56"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="609,128,770,155"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1047,66,764,127,762,122,1046,61"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="794,128,963,155"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1047,81,927,125,926,120,1045,76"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="988,128,1116,155"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1108,82,1075,118,1071,114,1104,79"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1140,128,1313,155"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1174,78,1207,114,1203,118,1170,82"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1337,128,1503,155"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1232,73,1369,120,1368,125,1230,78"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1527,128,1692,155"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1232,60,1533,122,1532,127,1231,65"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1716,128,1902,155"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1232,55,1706,123,1706,128,1231,60"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1927,128,2097,155"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1232,51,1912,125,1911,130,1231,56"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="2121,128,2290,155"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1232,48,1609,78,2106,125,2105,130,1608,84,1231,54"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="2314,128,2452,155"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1231,46,1686,73,1988,95,2298,125,2298,130,1988,101,1685,78,1231,51"/>
+</map>

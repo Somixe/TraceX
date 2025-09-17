@@ -1,0 +1,11 @@
+<map id="tests/tests/tst_xmlparserutils.cpp" name="tests/tests/tst_xmlparserutils.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,221,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="24,155,84,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,35,58,54,45,67,35,81,31,95,32,111,42,140,36,142,27,112,26,95,31,79,41,63,54,50,83,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="132,155,257,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,30,171,50,185,63,195,79,203,109,203,139,197,139,198,110,191,81,181,67,168,54,139,35"/>
+<area shape="rect" id="Node000004" href="$tst__xmlparserutils_8h.html" title=" " alt="" coords="45,80,181,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="116,33,116,64,110,64,110,33"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="105,109,76,144,72,141,101,106"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="129,105,171,142,167,146,125,109"/>
+</map>

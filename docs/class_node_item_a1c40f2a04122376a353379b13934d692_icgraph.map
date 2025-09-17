@@ -1,0 +1,13 @@
+<map id="NodeItem::getFile" name="NodeItem::getFile">
+<area shape="rect" id="Node000001" title="getFile : récupérer le fichier représenté par le noeud" alt="" coords="660,68,786,95"/>
+<area shape="rect" id="Node000002" href="$class_graphe.html#ac187f1b59961dc86821200ed2c50319d" title="Graphe::afficherGraphe : permet l&#39;affichage du noeud dans la scene." alt="" coords="457,43,612,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="645,74,612,69,613,64,645,68"/>
+<area shape="rect" id="Node000006" href="$class_graphe.html#af5aa2f9ab7507f38dd3d57b31f0f0bc7" title="Graphe::existNode vérifie si un noeud existe dans le graphe." alt="" coords="470,93,600,120"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="645,94,600,101,600,95,644,89"/>
+<area shape="rect" id="Node000003" href="$class_main_window.html#aeb118e6002acdca1322448da92562cb9" title="Créer et configure une nouvelle fenêtre de graphe_affiche avec des boutons de zoom (+ et –)." alt="" coords="199,13,409,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,47,409,43,410,37,442,42"/>
+<area shape="rect" id="Node000005" href="$class_main_window.html#a7fe434f98f5f25a3f11ded44092b8b4f" title="Met à jour dynamiquement le graphe en fonction des filtres cochés." alt="" coords="201,64,406,107"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="442,70,407,75,407,70,441,65"/>
+<area shape="rect" id="Node000004" href="$class_main_window.html#a4849c50c272bd96d63f597e3ec011dab" title="Gère l&#39;action du bouton pour afficher un graphe." alt="" coords="5,5,151,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="183,29,151,29,151,24,183,24"/>
+</map>

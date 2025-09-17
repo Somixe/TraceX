@@ -1,0 +1,11 @@
+<map id="xpath_ast_node::optimize" name="xpath_ast_node::optimize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,176,69"/>
+<area shape="rect" id="Node000002" href="$classxpath__ast__node.html#a3eb089927cabd867a3a9d1b723aece0d" title=" " alt="" coords="224,43,422,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,53,208,53,208,59,176,59"/>
+<area shape="rect" id="Node000003" href="$classxpath__ast__node.html#aac1162512c42ef38e35a9ba7ce994b91" title=" " alt="" coords="486,5,617,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="422,41,470,34,471,40,422,46"/>
+<area shape="rect" id="Node000004" href="$pugixml_8cpp.html#a4a113e060713f00a1b6f835001c99efe" title=" " alt="" coords="470,72,633,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="422,66,455,70,454,76,422,71"/>
+<area shape="rect" id="Node000005" href="$structxpath__allocator.html#a6c13fefbd7038d78b336987f396c8415" title=" " alt="" coords="681,72,844,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="633,83,666,83,666,88,633,88"/>
+</map>

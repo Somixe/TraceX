@@ -1,0 +1,5 @@
+<map id="Graphe::organiserLignes" name="Graphe::organiserLignes">
+<area shape="rect" id="Node000001" title="Graphe::organiserLignes : permet d&#39;organiser l&#39;emplacement des noeud dans la scene selon le type de d..." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="Node000002" href="$class_node_item.html#a4c5b5abac1c924bad96f34d927f63739" title="Retourne la zone occupée par le nœud dans la scène." alt="" coords="216,5,382,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,16,200,16,200,21,168,21"/>
+</map>

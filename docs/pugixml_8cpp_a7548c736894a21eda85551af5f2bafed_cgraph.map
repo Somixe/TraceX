@@ -1,0 +1,29 @@
+<map id="set_value_convert" name="set_value_convert">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,109,133,136"/>
+<area shape="rect" id="Node000002" href="$pugixml_8cpp.html#add59ae346f2993be95cf7b56903ec676" title=" " alt="" coords="181,109,292,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,120,165,120,165,125,133,125"/>
+<area shape="rect" id="Node000003" href="$pugixml_8cpp.html#a6acbb945c483e413572aadd55a2c8712" title=" " alt="" coords="340,109,435,136"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="293,120,324,120,324,125,293,125"/>
+<area shape="rect" id="Node000004" href="$structxml__allocator.html#a19732d75c0ba4b799d32a285fcb58027" title=" " alt="" coords="490,5,642,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="406,107,482,58,492,52,495,57,485,62,409,111"/>
+<area shape="rect" id="Node000009" href="$structxml__allocator.html#af32c538db4d562c2d0bfe15f7c0aa879" title=" " alt="" coords="483,72,649,115"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="435,112,468,107,468,112,436,118"/>
+<area shape="rect" id="Node000012" href="$structxml__allocator.html#ac831a283ec3bcbe22fd3ce3be98ec347" title=" " alt="" coords="491,139,641,165"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="436,128,476,135,475,140,435,133"/>
+<area shape="rect" id="Node000013" href="$pugixml_8cpp.html#afeaebb026671399f617b36e27fa92234" title=" " alt="" coords="500,189,632,216"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="411,134,445,155,484,175,500,181,498,186,482,180,442,159,408,139"/>
+<area shape="rect" id="Node000005" href="$structxml__allocator.html#a02a8725611785568ceae7a0eea3eca76" title=" " alt="" coords="704,5,855,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="642,24,688,24,688,29,642,29"/>
+<area shape="rect" id="Node000006" href="$structxml__allocator.html#ae010e1cb3ad4e8f1235ad94ea4c542ee" title=" " alt="" coords="934,5,1086,48"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="855,24,919,24,919,29,855,29"/>
+<area shape="rect" id="Node000007" href="$structxml__allocator.html#ad07a6aa6876c8c5a5536d409c01d88e5" title=" " alt="" coords="1158,13,1345,40"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1086,24,1143,24,1143,29,1086,29"/>
+<area shape="rect" id="Node000008" href="$structxml__memory__page.html#a071bb9cc9aeccef1655c1336b16472a5" title=" " alt="" coords="1393,13,1586,40"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1345,24,1377,24,1377,29,1345,29"/>
+<area shape="rect" id="Node000010" href="$structxml__allocator.html#a5df417155487cce4e0460b123ac33dc6" title=" " alt="" coords="697,72,862,115"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="649,91,681,91,681,96,649,96"/>
+<area shape="rect" id="Node000011" href="$structxml__allocator.html#a1c6bfe15a257a094f55659f8d71c209e" title=" " alt="" coords="910,80,1110,107"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="862,91,894,91,894,96,862,96"/>
+<area shape="rect" id="Node000014" href="$pugixml_8cpp.html#a775f7b78d2f13c1b72d69b114599461d" title=" " alt="" coords="744,189,815,216"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="632,200,729,200,729,205,632,205"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="destroy_node" name="destroy_node">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,105,58"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="28,32,23,22,26,13,37,7,55,4,74,7,84,14,81,18,72,12,55,10,39,12,30,16,28,22,32,29"/>
+<area shape="rect" id="Node000002" href="$structxml__allocator.html#a5df417155487cce4e0460b123ac33dc6" title=" " alt="" coords="532,27,698,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,32,152,24,318,5,391,4,485,12,528,20,527,26,484,18,391,9,319,10,153,30,106,37"/>
+<area shape="rect" id="Node000004" href="$structxml__allocator.html#af32c538db4d562c2d0bfe15f7c0aa879" title=" " alt="" coords="319,27,484,70"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="105,42,303,45,303,50,105,48"/>
+<area shape="rect" id="Node000005" href="$pugixml_8cpp.html#a451a69801ffa96a6389bb7d4c8099bd9" title=" " alt="" coords="153,82,271,108"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="100,56,155,74,153,79,98,61"/>
+<area shape="rect" id="Node000003" href="$structxml__allocator.html#a1c6bfe15a257a094f55659f8d71c209e" title=" " alt="" coords="746,35,946,62"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="698,46,730,46,730,51,698,51"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="484,46,517,46,517,51,484,51"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="271,93,371,90,484,79,524,71,525,77,485,84,371,95,271,98"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="268,79,303,70,305,75,269,84"/>
+</map>

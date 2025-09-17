@@ -1,0 +1,7 @@
+<map id="xml_memory_page" name="xml_memory_page">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,8,137,35"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="154,13,163,21,155,30,138,33,137,27,153,25,158,21,150,17"/>
+<area shape="rect" id="Node000002" href="$structxml__allocator.html" title=" " alt="" coords="22,101,120,128"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="47,48,38,62,37,72,40,82,56,99,52,103,36,84,31,73,33,60,42,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,85,71,77,70,35,75,35,76,77,76,86"/>
+</map>
