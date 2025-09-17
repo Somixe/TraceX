@@ -107,7 +107,7 @@ TraceX/
 
 ## Équipe
 
-Projet réalisé en collaboration sous la supervision de **Jeremy Meynadier** :  
+Projet universitaire réalisé en collaboration sous la supervision de **Jeremy Meynadier** :  
 
 - **Maxime Huang** [@Somixe](https://github.com/Somixe)  
 - **Jacques Zheng**  
