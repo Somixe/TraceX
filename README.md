@@ -45,7 +45,7 @@ Selon votre OS, installez le fichier correspondant :
 
 ---
 
-## Installation
+## Utilisation
 
 > Lors de l’utilisation, des messages de permission ou de sécurité peuvent apparaître : merci de les autoriser pour que le logiciel fonctionne correctement.
 
@@ -63,4 +63,48 @@ La documentation complète des fonctions et du projet est disponible en ligne vi
 Le dossier `tests/` contient :  
 - `cpp/` et `h/` : fichiers source des tests  
 - `examples/` : fichiers SSS, SRS, SDD pour tester le logiciel  
-- `CMakeLists.txt` : pour compiler les tests séparément  
+- `CMakeLists.txt` : pour compiler les tests séparément
+
+---
+
+## Arborescence du projet 
+
+TraceX/
+├── src/
+│ ├── cpp/ # fichiers .cpp
+│ ├── h/ # fichiers .h
+│ ├── ui/ # fichiers .ui
+│ ├── Image.qrc # ressources images
+│ └── CMakeLists.txt
+├── tests/
+│ ├── cpp/
+│ ├── h/
+│ ├── examples/
+│ └── CMakeLists.txt
+├── docs/ # documentation
+├── specifications
+│ └── Cahier_des_charges.pdf
+│ ├── Cahier_de_recettes.pdf
+│ ├── Conception_generale.pdf
+│ ├── Conception_detaillee.pdf
+│ ├── Manuel_installation.pdf
+│ ├── Manuel_utilisation.pdf
+│ ├── Plan_de_tests.pdf
+│ ├── Rapport_de_projet.pdf
+├── assets/
+│ └── images/
+├── external/
+│ └── pugixml-1.15/
+├── video/
+│ ├── TraceX_demo.mp4
+├── mockups/
+└── gitignore.md
+└── README.md
+
+## Équipe
+
+Projet réalisé en collaboration par :  
+- [Maxime Huang] (@Somixe)  
+- [Jacques Zheng]  
+- [Abdelmalek Allahoum] 
+- [Léa Kim] 
