@@ -8,9 +8,9 @@ Il permet de visualiser les liens entre les documents, analyser le taux de traç
 ## Captures d’écran
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="assets/images/screenshot_home.png" width="300" />
-  <img src="assets/images/screenshot_main.png" width="300" />
-  <img src="assets/images/screenshot_graph.png" width="300" />
+  <img src="assets/images/screenshot_home.png" width="450" />
+  <img src="assets/images/screenshot_main.png" width="450" />
+  <img src="assets/images/screenshot_graph.png" width="450" />
 </div>
 
 ---
@@ -107,8 +107,9 @@ TraceX/
 
 ## Équipe
 
-Projet réalisé en collaboration par :  
-- Maxime Huang (@Somixe)  
-- Jacques Zheng 
-- Abdelmalek Allahoum
-- Léa Kim
+Projet réalisé en collaboration sous la supervision de **Jeremy Meynadier** :  
+
+- **Maxime Huang** [@Somixe](https://github.com/Somixe)  
+- **Jacques Zheng**  
+- **Abdelmalek Allahoum**  
+- **Léa Kim**  
