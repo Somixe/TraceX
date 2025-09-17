@@ -8,10 +8,11 @@ Il permet de visualiser les liens entre les documents, analyser le taux de traç
 ## Captures d’écran
 
 <p float="left">
-  <img src="assets/images/screenshot_main.png" width="300" />
-  <img src="assets/images/screenshot_graph.png" width="300" />
+  <img src="assets/images/screenshot_main.png" width="300" style="margin-right: 10px;" />
+  <img src="assets/images/screenshot_graph.png" width="300" style="margin-right: 10px;" />
   <img src="assets/images/screenshot_another.png" width="300" />
 </p>
+
 
 ---
 
