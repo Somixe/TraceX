@@ -8,9 +8,9 @@ Il permet de visualiser les liens entre les documents, analyser le taux de traç
 ## Captures d’écran
 
 <div style="display: flex-wrap: wrap-row;">
-  <img src="assets/images/screenshot_home.png" width="330" />
-  <img src="assets/images/screenshot_main.png" width="325" />
-  <img src="assets/images/screenshot_graph.png" width="350" />
+  <img src="assets/images/screenshot_home.png" width="310" />
+  <img src="assets/images/screenshot_main.png" width="305" />
+  <img src="assets/images/screenshot_graph.png" width="330" />
 </div>
 
 ---
