@@ -84,40 +84,43 @@ Le dossier `tests/` contient :
 
 ---
 
-## Arborescence du projet 
+## Arborescence du projet
 
-```
-TraceX/
-├── src/
-│   ├── cpp/
-│   ├── h/
-│   ├── ui/
-│   ├── Image.qrc
-│   └── CMakeLists.txt
-├── tests/
-│   ├── cpp/
-│   ├── h/
-│   ├── examples/
-│   └── CMakeLists.txt
-├── docs/
-├── specifications/
-│   ├── Cahier_des_charges.pdf
-│   ├── Cahier_de_recettes.pdf
-│   ├── Conception_generale.pdf
-│   ├── Conception_detaillee.pdf
-│   ├── Manuel_installation.pdf
-│   ├── Manuel_utilisation.pdf
-│   ├── Plan_de_tests.pdf
-│   └── Rapport_de_projet.pdf
-├── assets/
-│   └── images/
-├── external/
-│   └── pugixml-1.15/
-├── video/
-│   └── TraceX_demo.mp4
-├── mockups/
-├── .gitignore
-└── README.md
+```mermaid
+graph TD
+    A[TraceX] --> B[src]
+    A --> C[tests]
+    A --> D[docs]
+    A --> E[specifications]
+    A --> F[assets/images]
+    A --> G[external/pugixml-1.15]
+    A --> H[video/TraceX_demo.mp4]
+    A --> I[mockups]
+    A --> J[.gitignore]
+    A --> K[README.md]
+
+    %% Détail src
+    B --> B1[cpp/]
+    B --> B2[h/]
+    B --> B3[ui/]
+    B --> B4[Image.qrc]
+    B --> B5[CMakeLists.txt]
+
+    %% Détail tests
+    C --> C1[cpp/]
+    C --> C2[h/]
+    C --> C3[examples/]
+    C --> C4[CMakeLists.txt]
+
+    %% Détail specifications
+    E --> E1[Cahier_des_charges.pdf]
+    E --> E2[Cahier_de_recettes.pdf]
+    E --> E3[Conception_generale.pdf]
+    E --> E4[Conception_detaillee.pdf]
+    E --> E5[Manuel_installation.pdf]
+    E --> E6[Manuel_utilisation.pdf]
+    E --> E7[Plan_de_tests.pdf]
+    E --> E8[Rapport_de_projet.pdf]
 ```
 
 ## Équipe
