@@ -178,6 +178,6 @@ graph TD
 Projet universitaire réalisé en collaboration sous la supervision de **Jeremy Meynadier** :  
 
 - **Maxime Huang** [@Somixe](https://github.com/Somixe)  
-- **Jacques Zheng**  
-- **Abdelmalek Allahoum**  
+- **Jacques Zheng** [@Meitio](https://github.com/Meitio)
+- **Abdelmalek Allahoum** [@Malek-Said](https://github.com/Malek-Said)
 - **Léa Kim**  
