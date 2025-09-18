@@ -175,9 +175,11 @@ graph TD
 
 ## Équipe
 
-Projet universitaire réalisé en collaboration sous la supervision de **Jeremy Meynadier** :  
+Le projet a été réalisé par : 
 
 - **Maxime Huang** [@Somixe](https://github.com/Somixe)  
 - **Jacques Zheng** [@Meitio](https://github.com/Meitio)
 - **Abdelmalek Allahoum** [@Malek-Said](https://github.com/Malek-Said)
-- **Léa Kim**  
+- **Léa Kim**
+
+Sous la supervision de **Jeremy Meynadier**. 
