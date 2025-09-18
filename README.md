@@ -1,8 +1,17 @@
-# TraceX
+# Projet L2 à l'Universitaire à Paris-cité - TraceX
 
-**TraceX** est un logiciel multiplateforme développé en C++/Qt pour la gestion et l’extraction de la traçabilité des exigences (SSS → SRS → SDD).  
-Il permet de visualiser les liens entre les documents, analyser le taux de traçabilité et générer des rapports détaillés.
+**TraceX** est un logiciel universitaire multiplateforme développé en **C++/Qt**.  
+Il est conçu pour la **gestion et l’extraction de la traçabilité des exigences** entre les différents niveaux de spécifications :
 
+- **SSS** : Spécification des besoins système / des parties prenantes  
+- **SRS** : Spécification des exigences logicielles  
+- **SDD** : Description de la conception logicielle  
+
+TraceX permet de :  
+- Visualiser les liens entre les documents  
+- Analyser le taux de traçabilité des exigences  
+- Générer des rapports détaillés pour le suivi et la validation des projets logiciels
+  
 ---
 
 ## Captures d’écran
