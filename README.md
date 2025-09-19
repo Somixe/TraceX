@@ -52,7 +52,8 @@ Après avoir décompressé le fichier ZIP, lancer l'installation du logiciel :
 - macOS   : `TraceX_Installer.pkg`
 - Linux   : `TraceX_Installer.run`
 
-> Note : cette version est une bêta stable. Pour modifier ou recompiler le projet, consultez le dossier `src/` et adaptez les chemins si nécessaire (images, fichiers `.ui`, Image.qrc).
+> Note : Cette version est une bêta stable. Pour modifier ou recompiler le projet, consultez le dossier `src/` et adaptez les chemins si nécessaire (images, fichiers `.ui`, Image.qrc).
+> Note : L’installateur macOS n’est pas notarisé par Apple. De ce fait, le bon fonctionnement de l’installateur macOS n’est pas garanti en dehors de la machine de développement.
 
 Après l’installation, pour lancer le logiciel, ouvrez le dossier `TraceX` et exécutez `TraceX.exe` (ou l’équivalent selon votre OS).
 
