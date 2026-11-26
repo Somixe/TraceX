@@ -18,11 +18,11 @@ Avec TraceX, vous pouvez :
 
 ## Captures d’écran
 
-<div style="display: flex-wrap: wrap-row;">
+<p>
   <img src="assets/images/screenshot_home.png" width="310" />
   <img src="assets/images/screenshot_main.png" width="305" />
   <img src="assets/images/screenshot_graph.png" width="330" />
-</div>
+</p>
 
 ---
 
@@ -52,7 +52,7 @@ Après avoir décompressé le fichier ZIP, lancer l'installation du logiciel :
 - macOS   : `TraceX_Installer.pkg`
 - Linux   : `TraceX_Installer.run`
 
-> Note : Cette version est une bêta stable. Pour modifier ou recompiler le projet, consultez le dossier `src/` et adaptez les chemins si nécessaire (images, fichiers `.ui`, Image.qrc).
+> Note : Cette version est une bêta stable. Pour modifier ou recompiler le projet, consultez le dossier `src/` et adaptez les chemins si nécessaire (images, fichiers `.ui`, Images.qrc).
 
 > Note : L’installateur macOS n’est pas notarisé par Apple. De ce fait, le bon fonctionnement de l’installateur macOS n’est pas garanti en dehors de la machine de développement.
 
@@ -89,10 +89,10 @@ Le dossier `tests/` contient :
 ## Notes pour développeurs
 
 - **Code source** : `src/`  
-- **Librairies externes** : `external/pugixml-1.15/`  
+- **Librairies externes** : `externals/pugixml-1.15/`  
 - **Version C++** : C++17  
 - **Version Qt** : Qt 6.x.x  
-- **Adaptation des chemins** : si vous modifiez la structure du projet, adaptez les chemins des images, fichiers `.ui` et `Image.qrc`  
+- **Adaptation des chemins** : si vous modifiez la structure du projet, adaptez les chemins des images, fichiers `.ui` et `Images.qrc`  
 - **Compilation** : utiliser CMake (`CMakeLists.txt`) pour générer les fichiers du projet et compiler
 
 ---
@@ -107,7 +107,7 @@ TraceX/
 │   ├── cpp/
 │   ├── h/
 │   ├── ui/
-│   ├── Image.qrc
+│   ├── Images.qrc
 │   └── CMakeLists.txt
 ├── tests/
 │   ├── cpp/
@@ -119,16 +119,16 @@ TraceX/
 │   ├── Cahier_des_charges.pdf
 │   ├── Cahier_de_recettes.pdf
 │   ├── Conception_generale.pdf
-│   ├── Conception_detaillee.pdf
+│   ├── Conception_détaillee.pdf
 │   ├── Manuel_installation.pdf
 │   ├── Manuel_utilisation.pdf
 │   ├── Plan_de_tests.pdf
 │   └── Rapport_de_projet.pdf
 ├── assets/
 │   └── images/
-├── external/
+├── externals/
 │   └── pugixml-1.15/
-├── video/
+├── videos/
 │   └── TraceX_demo.mp4
 ├── mockups/
 ├── .gitignore
@@ -144,8 +144,8 @@ graph TD
     A --> D[docs]
     A --> E[specifications]
     A --> F[assets/images]
-    A --> G[external/pugixml-1.15]
-    A --> H[video/TraceX_demo.mp4]
+    A --> G[externals/pugixml-1.15]
+    A --> H[videos/TraceX_demo.mp4]
     A --> I[mockups]
     A --> J[.gitignore]
     A --> K[README.md]
@@ -154,7 +154,7 @@ graph TD
     B --> B1[cpp/]
     B --> B2[h/]
     B --> B3[ui/]
-    B --> B4[Image.qrc]
+    B --> B4[Images.qrc]
     B --> B5[CMakeLists.txt]
 
     %% Détail tests
@@ -167,7 +167,7 @@ graph TD
     E --> E1[Cahier_des_charges.pdf]
     E --> E2[Cahier_de_recettes.pdf]
     E --> E3[Conception_generale.pdf]
-    E --> E4[Conception_detaillee.pdf]
+    E --> E4[Conception_détaillee.pdf]
     E --> E5[Manuel_installation.pdf]
     E --> E6[Manuel_utilisation.pdf]
     E --> E7[Plan_de_tests.pdf]
@@ -184,4 +184,4 @@ Le projet a été réalisé par :
 - **Abdelmalek Allahoum** [@Malek-Said](https://github.com/Malek-Said)
 - **Léa Kim**
 
-Sous la supervision de **Jeremy Meynadier**. 
+Sous la supervision de **Jeremy Meynadier**.
